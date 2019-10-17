@@ -2,7 +2,7 @@
 - HTML5 Boilerplate: https://html5boilerplate.com/
 - Jekyll: http://jekyllrb.com/docs/home/
 - Markdown: http://daringfireball.net/projects/markdown/
-- Bootstrap: https://getbootstrap.com/docs/3.3/
+- Bootstrap: https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
 ## Local Development - Setup
 1. Install [Ruby with the DevKit](https://www.ruby-lang.org/)

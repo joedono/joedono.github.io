@@ -1,0 +1,9 @@
+---
+title: Design Chops Done
+category: web development
+---
+I've finished the second version of Pork Bowl Con and sent it off to my designer friend for another round of critique. I'm pretty sure that no matter what he comes back with this time, I'm calling my site done and moving on to another project. I don't want to sit here tweaking this site any more than I have to in order to get more learning out of it. I've made my attempt, and now I want to design another website with a different purpose and function. This one is going to be a used games retail website. I'm going to finally make use of that cool shopping cart library that's been sitting in my Cool Stuff section for a while.
+
+I used Materialize to build Pork Bowl Con. I'm not sure I'm going to stick with that for this new site. The shopping cart has a flatter and more curved look to it, and I never did like the way Materialize handles form inputs. The whole floating label thing and the one line under the input field doesn't look good. Plus, their dropdowns don't work on mobile yet. I'll probably go back to Bootstrap for this new one. I'm also going to be attempting to make the website a little more functional. I want to try using Angular for an actual site and I think this site fits the bill. I can alter the shopping cart to be an Angular directive and store the contents without too much trouble. Laying out the shopping items will be easy too. I just have to figure out what to call this new site.
+
+I've updated the Projects section of this site. I realized that it looked pretty terrible on mobile since the icons were all different sizes. I had to leave a few of the 1GAM entries with small icons because I never designed title screens for them. Other than that, the page looks much better on mobile now.

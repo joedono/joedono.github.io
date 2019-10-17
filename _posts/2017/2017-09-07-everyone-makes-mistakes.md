@@ -1,0 +1,9 @@
+---
+title: Everyone Makes Mistakes
+category: rant
+---
+This seems to be a foreign concept to most people where I work, but I don't really trust myself. I know a lot of things. I know how to do a lot of things. I can write out documents that are reasonably or mostly correct, but I still make mistakes. I don't explain things properly sometimes. I miss steps. I understand this, and I try to take steps to remedy this. I ask to have review meetings scheduled so that some representative of the target audience can read through the documents and steps that I've written and tell me if something is unclear so that they don't try to follow bad steps and wind up making mistakes. But when those meetings don't happen, we wind up wasting precious hours trying to figure out what has gone wrong when, the entire time, I have a different understand of what has been done than the person who actually did the things.
+
+I'm *this* close to slamming my fist on my desk and walking out into the hallway. I'm *this* close to breaking my resolution for this month and having a soda on a Thursday. It wouldn't be so bad if this wasn't the 6th or 7th time this has happened. We know what issues face our product and we know what steps have to be taken to prevent them from happening, but we can't do that if we don't check our steps for copy-paste errors or breaks with procedure. And if we had the stupid review meeting, none of this would have happened. Not to mention that the guy running through the steps in my process has a history of not doing them properly in the first place. Every time he's assigned to our team, I shiver a little because I know that the release is going to be problematic.
+
+Everyone makes mistakes. Me most of all. So I ask for the chance to correct them. And when I don't get that chance, everyone suffers.

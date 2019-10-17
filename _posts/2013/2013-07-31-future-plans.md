@@ -1,0 +1,13 @@
+---
+title: "Future Plans"
+category: game development
+---
+I'm writing this in the hopes that a plan for the rest of the year will materialize from it. I'm 7 out of 12 games deep into OneGameAMonth. I've stuck with my original plan to go though the toolsets and engines I have collected over the past 2 years and try them out on a different project each month. I've had great success and only kind of cheated once (GameMaker 8.0 in January and GameMaker Studio in July). I have 5 months left and 5 engines in my original list that I haven't tried yet.<br /><ol><li>MonoGame</li><li>C++ (SDL, HGE, or Allegro)</li><li>Dreemchest</li><li>RPGMaker VX Ace</li><li>ZGameEditor</li></ol>The dilemma I have is that I'm getting married soon (yay!!!). I'm predicting that the month before will be mostly spent planning and worrying and the month of will be more of the same. I've gone through all the engines that I had any familiarity with. I've worked a little with HGE, but only to see if I could make a block bounce around the screen. If I'm going to continue through 1GAM, the two games for those months will have to be really simple and made with an engine that is easy to use.
+
+RPGMaker is right out. I'd actually like to build something reasonable with that one. I've been thinking of dropping MonoGame, since it's directly descended from XNA. ZGameEditor is a possibility. I've used it a little before and it lends itself to simple games. HGE is another possibility, but it's closer to the libraries I'm used to so I'd be able to build something more complex. I have no idea how Dreemchest will work, but the fact that it's visual AND based on Lua might give me an edge.
+
+If I do drop MonoGame from my list, that leaves an opening where I could use an engine I already built a game with. If I want to keep them unique, I could pull out PyGame again. It's been a while since I wrote The Great Inkscap.
+
+Ok, that's what I'm going to do. I'm going to drop one of the other libraries from my list and maybe use it on a future project. I'll cheat a little and use GameMaker Studio Professional the month I'm actually getting married, and C++ with HGE the month before. I'll keep RPGMaker on my list since I actually spent money picking that up (it was on sale though). Finally, I'll use MonoGame, Dreemchest, or ZGameEditor for the last slot.
+
+And then I plan on taking a long break from game building. I'll put some serious time and thought into my next project and not hurry.

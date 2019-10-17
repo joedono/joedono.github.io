@@ -1,0 +1,13 @@
+---
+title: "Bear and Hunter - Post Mortem"
+category: game development
+---
+My entry for 1GAM July is finished a whole 3 days before the deadline. This month's entry is Bear and Hunter: a simple 2D platformer about a hunter whose clothes are stolen by a big mean bear. Your mission is to steal back your clothes and make it back to your cabin before the bear catches you. It's a fun little thing that nicely distills the excitement I get when playing Capture the Flag and being chases by the entire opposing team.
+
+This month's engine was GameMaker Studio. I had gotten my start with GameMaker 7.0 back in college and I made my first *real* game in it. I actually spent the $30 to upgrade to the pro version, despite being a poor college student at the time. I used 8.0 for my January entry at GGJ2013. Earlier this year, GameMaker Studio was put on sale through Steam, so I picked it up, predicting that it would be a nice piece of software that I'd want to use again. Having to launch it through Steam is a bit of a pain. There were times when Steam thought it was still open after I closed it and refused to open up a new instance unless I completely closed and re-opened Steam again. In spite of that, I knew the engine fairly well and was able to avoid many problems and bugs I would have left in had I made this 5 years ago.
+
+I used a lot of art from <a href="http://opengameart.org/">OpenGameArt</a>, but managed to draw the Bear myself. OGA is a great site. I had a hard time remembering who I got art from for the credits screen, so I hope no one gets upset. There is also the issue of mismatched styles. The tileset I'm using comes from two different people, the cabin comes from another, and the hunter sprite from yet another. The game still looks better than if I had tried to do the art myself, but I miss having a dedicated artist. Maybe another month.
+
+The biggest challenge this month was finding time to work. My life is getting busier and I'm having fewer and fewer weekends per month to devote to building. Not to mention that Final Fantasy XIV is coming out soon. The end of the year is going to be hard. But, I didn't think I'd make last month either (I kinda didn't, but at least I could play my game) and I debated giving up the project several times just to make things easier on myself. But I'm in this until the end and I'm going to do my best to keep this momentum going!!
+
+Download a copy of Bear and Hunter <a href="http://www.mediafire.com/download/yqz5qns8ubpo220/Bear_And_Hunter.zip">here</a> and let me know what you think!

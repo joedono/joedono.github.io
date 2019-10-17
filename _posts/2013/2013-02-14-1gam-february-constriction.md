@@ -1,0 +1,23 @@
+---
+title: "1GAM February - Constriction"
+category: game development
+---
+This is a personal record for me. I've only been working on my February 1GAM entry for 2 days, and it already has me excited enough to blog about it. While we were in the brainstorming session of GGJ last month, I came up with an idea for a game I called "Constriction." I was a little disappointed when the idea didn't get picked up by anyone else, so I made it into my 1GAM February entry.
+
+Constriction is a 2D Endless Single Screen Arcade game in the same vein as the original Snake. You know, the game where you move around the screen, eating stuff that makes your tail grow longer, until you end up trapped and have to eat yourself to move anywhere. The pieces are the same in my game, but instead of you getting bigger, the walls pulsate and constrict around you. They do this continuously, and picking up the stuff makes them faster and more random. I'm debating about whether colliding with the walls kills you immediately or hurts you over time.
+
+But anyway, on to the progress report.
+
+This was my original concept sketch. Just enough to illustrate the idea I wanted it to look like. The blue circle is the player and the red box is the thing the player has to collect. I've been calling them "treats" for now, even though that makes the player sound like a mouse or something. The player movement, picking up items, and basic scorekeeping were things I had done dozens of times before. The hard part is going to be the pulsating walls. They are what makes the game after all. I'll worry about doing something to ramp up their difficulty later.
+
+Step 1: Nail down the basic player movement, goal behavior, and score keeping. pretty basic stuff.
+
+Step 2: It looked like the best option was to have a list of Verticies that would make up the inner wall of the constriction. I successfully implemented an algorithm that made the verticies approach a certain target point on the screen and arrive there at the same time. This meant that some verticies moved faster than others, but it gives the effect I want.
+
+Step 3: Now we get to the hard stuff. I didn't know anything about how XNA handled drawing primitive shapes. When I was building stuff in Java, practically everything was made up of shapes drawn with the Graphics2D class. XNA seemed to only deal in sprites as far as my knowledge went. I did a little extra digging and found the GraphicsDevice.DrawUserPrimitives() method. Which takes a list of vertices and draws an arbitrary shape from them. Here they are drawing a simple line.
+
+Final Step (for now): DrawUserPrimitives() worked fine for outlining, but I needed a way to fill in the outside of the arbitrary shape that I had constructed. I explored lengthy tutorials on VertexBuffers and IndexBuffers, until I found that DrawUserPrimitives has an argument that tells it to fill the shape. Technically, what it does is take a list of verticies that form interconnected triangles, and fills those in. I played around with the order of the verticies and their original positions along the wall until I had them in a sequence that formed interconnected triangles. After about 3 hours of messing around, I had the constricting walls you see here.
+
+After spending nearly all day just getting this feature to work, I had to celebrate a little. I didn't actually think this would work and I had started to lose faith in XNA. But, I wanted to build at least one game in it before abandoning it for something that hasn't been left behind by its creators.
+
+I still have a lot to work on. Next will be to make the walls pulsate more randomly. Right now, the walls constrict down to a perfect circle and then retract. They should have peaks and valleys, reaching towards their target and threatening the player. It should be easy enough to just add some wiggling to the verticies, but it's getting late right now. After that, I want to try out a simple particle system to give the walls a more smokey look to them. Adding wiggling to the verticies will probably look too straight and jagged, so I'm hoping a fog effect will mitigate that somewhat. I have to make the constricting walls damage the player. Lastly, and most difficult after just getting the walls to constrict like this, is difficulty. I have some ideas on how to make the game progressively harder, but I don't know if they'll actually work. We'll find out later this month!

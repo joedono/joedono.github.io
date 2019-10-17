@@ -1,0 +1,11 @@
+---
+title: "New Area Built - Plains"
+category: archive
+---
+The Plains area has platforms. This is where it's getting interesting. The Plains are is going to act as a sort of hub, in as far as you go through it the most number of times. For a MetroidVania platformer, this is turning out to be pretty linear. I have an extremely clear idea of the correct path to take through the landscape and there's very little opportunity for a player to deviate. If I were to take screenshots, they wouldn't look much different from the shots of the Cave before I've added textures. Just black boxes everywhere.
+
+I've discovered two possible issues with regard to expressing information to the player. I haven't decided on a way to express to the player that the next room they have to go to is up. It's easy in the Cave, but harder in the Forest and Plains. I will probably have to rely on my placement of tiles to express it in the landscape. From the Forest, you will be able to climb a tree to get to another room. From the Plains, I'm thinking that one of the higher platforms in a room will be a cloud that you can jump off of to get to the Cloud area. The other issue is how to show that a path between two rooms is blocked without forcing the player to go to the second room to encounter the barrier. I can either leave it as is, or force the player to break down two barriers whenever they encounter one. Another thing to add to the list of "when polishing" tasks.
+
+The third upgrade will probably be a Double Jump feature. The player will use it to access the Cloud area. The problem is that the character already jumps around 5x his height, so adding double-jump may break the game later. Maybe I'll change it to wall-jumping instead. The player's jump height has been nagging me for a while. Maybe I'll lower it before going too much farther.
+
+Anyway, the next task on my list is to add textures to the Cavern, but just enough to cover the walls. After that, I'll fill in the code in the Rock Monster's death animation to fill in the new textures over the platforms that appear when the Rock Monster dies.

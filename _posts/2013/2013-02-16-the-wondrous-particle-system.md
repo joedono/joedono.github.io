@@ -1,0 +1,15 @@
+---
+title: "The Wondrous Particle System"
+category: game development
+---
+I've never worked with Particle Systems before (outside of GameMaker 7.0). I understood the theory, probably well enough to build my own, but I wanted to see what else was out there before resorting to that. Mostly to see how much time I could save.
+
+Enter <a href="http://www.xnaparticles.com/">DPSF</a>, the Dynamic Particle System Framework for XNA. It was the first one I sat down and tried out, and I was able to get the basic effect I wanted after only 30 minutes of tinkering.
+
+Rather than give you a library that exposes all the functionality you'd need to customize your particle system, DPSF recommends that you copy one of their ParticleSystemTemplates into your project and alter it as you see fit. It's a unique approach (as far as I know) that carries a rather steep learning curve. I had to spend almost an entire day reading through the documentation before I knew enough to start playing around. Although, that could be because of the crippling head cold I've been fighting.
+
+Here's what the result of my tinkering looks like. It's a far cry from the trash-compactor it used to be. You can't see it here, since I turned off the part that draws the constricting walls, but I switched out the extending Rectangle objects for simple square Rectangle objects that moving in and out. With the way the fog ended up looking and the way my collision system is shaping up, this method makes more sense from the player's perspective. I found myself believing that the only danger was at the head of the fog trail, when I knew the threatening Rectangle extended all the way back to the edge of the screen. So, I changed the game so that was true. We'll see how that holds up in playtesting.
+
+<br />Next up is damage. I have two basic decisions to make regarding the behavior of damage. Does being damaged change the player's position? Meaning, is there a knock-back effect? And is the player only damaged when they are caught between the constricting blocks or are they damaged whenever they touch a constricting block. Having knock-back will have very unpredictable results. Players could get caught in an infinite combo until they lose. For the second, since the constricting walls are starting to look like fireballs, I'll probably go with "damage whenever contact is made."
+
+Final note, I'm trying out a new productivity tool that a coworker introduced me to called <a href="https://trello.com/">Trello</a>. I gotta say, committing my code to version control at the end of a hard coding session was a decent reward, but to actually see your progress, to be able to list out everything that you've accomplished, is invaluable. Plus, it allows me to record a complete list of all the features I want to put in the game and see how much is left at any time. It has richer features than I'm using, such as assigning a task to an individual, commenting on and discussing a task, and attaching things to tasks. But I think it's still worth it, even as a sole game developer.

@@ -1,0 +1,11 @@
+---
+title: Design Inspiration
+category: cool stuff
+---
+I discovered the site [Bleech.IO](http://bleech.io/) the other day. It's kind of what I've been wanting my Cool Stuff section to end up like. I've already copied in a little animated Add to Cart library into my Cool Stuff for whenever I end up building a retail site with a cart. I don't know if that's ever going to happen, but it's a neat little piece of UI no matter what. And now I have someplace I can go to see a small collection of cool things people around the world of web development have built. I've been kind of disliking the way this site's navigation works. The sidebar isn't very useful if you're not on one of the posting pages, and it's not useful at all if you've scrolled down a little. I tried removing it altogether, but the rest of the site doesn't look very good when it spans the entire page. My Cool Stuff page suffers the most for it.
+
+I actually have to keep reminding myself that I don't actually want anyone to come see this site. It's my sandbox that I can do whatever I want with. It's free and keeps a complete record of everything I add to it. I don't have any brand recognition that I need to worry about and no readerbase to disappoint. This is just some place for me to mess around with when I'm bored or get inspired or something. So I just need to convince myself that it's ok for me to throw the whole design out and start from scratch. It's not like I'll lose the style and structure if I do. I can always archive it or rely on the version control to keep it. It's what I did when I tried Materialize. I just have to figure out if whatever design I find requires me to throw out Bootstrap. Just the list groups in Bootstrap make parts of this site soooooooo much easier to work with. Speaking of which...
+
+There, I just reworked the archive in the sidebar a bit so it's not stand-offish buttons that don't resemble anything else that's on the site. Go me.
+
+I think I'm going to try the radial popout navigation thingy.

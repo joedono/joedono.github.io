@@ -1,0 +1,11 @@
+---
+title: Materialize
+category: web development
+---
+I got bit by the learning bug the other day. Went and finally downloaded NodeJS and started playing around with it. I was pretty surprised to find out that it's not much more than a terminal that executes Javascript code. I thought it was a fully packaged web server, like Apache. Of course, that is what most people use it for, but they use one of the libraries that comes with it to spin up a server and serve content that way. I installed Jekyll on my local machine so that I could compile this blog and have a reasonably complex static website to test the server on. It worked out pretty well.
+
+I dug a little deeper and found the parts of the tutorials that talked about actually getting a web application working. I got a simple user management site running, then went looking for a more advanced tutorial. I found one, but it asked me to download and install Meteor. For some reason, that site was blocked or something on the computer I'm writing this from. Either that or there was something wrong with the package manager, because it was taking a loooooooooooong time to install dependencies. So I couldn't actually get that site off the ground, but I watched more of the tutorial anyway.
+
+I ran out of time before I got to the end, but not before the instructor mentioned downloading this thing called Materialize, which is a responsive CSS/JS framework. In the past, this blog has used Bootstrap to style its content and make the site responsive. I'm not really a front-end guy, but it helps to know a couple of frameworks. So I spent the past couple of days transitioning this site over to Materialize. There are a few things I'm not completely happy with, but I think the site looks good. It will probably always be bare-bones. I can't have much of a backend without separate hosting for a service of some kind, and I'm definitly not a front-end guy or a designer. I don't have much in the way of ideas to make this site look any better than it does. If I try to, I'll probably end up with a complete mess reminisicent of the days of GeoCities.
+
+For now, I'll give the new design some time to grow on me and live with this being a collection of cool front-end technologies.

@@ -1,0 +1,54 @@
+- name: Ventricle Assault
+  img: /img/projects/ventrical_assault.png
+  link: https://github.com/joedono/01-Jan-1GAM-Ventricle-Assault/releases
+  summary: My first entry into 1GAM 2013 was done during Global Game Jam 2013. My original plan was to spend the month of January learning Unity and build this first entry just in the one weekend with a team to back me up. I didn't end up learning Unity enough to build any games later in the year, but it was my first game jam and a lot of fun. The theme for the year was the sound of a heart beating, which made for a lot of biologically-themes entries (including Surgeon Simulator).<br><br>Our entry is about the lone white bloodcell defending the left ventricle from invading bacteria. This was also the first time I worked with an artist. I'll never forget how it felt to go from squares shooting other squares to a cell shooting bacteria in a heart chamber. It was the transition from just a demo to an actual game.<br><br>We built this using GameMaker 8.0
+
+- name: Smoke Rush
+  img: /img/projects/smoke-rush.png
+  link: https://github.com/joedono/02-Feb-1GAM-Smoke-Rush/releases
+  summary: My second entry came out of my original idea for my first entry. The first hour or so of Global Game Jam is individual brainstorming and idea sharing. My first idea was a simple arcade game where the walls of the arena constrict around you leaving small areas of safety while you try to collect randomly spawned fuel cells to keep your ship supplied with oxygen while it navigates through the human body. My first few attempts at this concept didn't turn out to be very fun, so I turned it into a simple avoidance arcade game with randomly spawning smoke balls flying around the level.<br><br>I used the XNA library for this. It was only a few months before XNA support was officially dropped. I could probably do something much better considering I've gained 3 additional years of C# experience since then. I remember being really pumped about learning a library that I could actually put on a home console, but XNA still turned out to be lower on my list of favorite libraries this year.
+
+- name: Crypt Crawler
+  img: /img/projects/crypt-crawler.png
+  link: https://github.com/joedono/03-Mar-1GAM-Crypt-Crawler/releases
+  summary: This Gauntlet clone was probably my best 1GAM entry. I worked with an artist to try and put this together using LÖVE. I definitely grew the most as a programmer this month. It was the first time I had worked with someone online and it was the first time I contributed to an open source library. I didn't actually do the work, just requested the feature.<br><br>At the time, LÖVE had a good particle system, but it lacked the ability to animate effects such as blood splatters, impact sparks, and explosions. I had to hack around the particle lifetimes to get the effects I wanted. Then I threw the request up on the issues board and they added the emit() function in the next version.<br><br>LÖVE is still my favorite gamedev library to date.
+
+- name: Ant Drops
+  img: /img/projects/ant_drops.png
+  link: http://www.newgrounds.com/portal/view/615087
+  summary: This simple game was my first attempt at a Flash game, and it's terrible. I built this game using Stencyl and it was one of the worst libraries I worked with this year.<br><br>Stencyl does programming by way of drag-and-drop, which normally isn't so bad. However, normally you also are able to drag and drop what are essentially macros. Things like "move my position X left" or "set my gravity to Y after collisions." Stencyl actually has you dragging and dropping the smallest snippets of code around. The "if" statement is one draggable object, the "=" is another, the "and" is another, and the "!=" is still another. Putting together even the most basic of operations was incredibly tedious.<br><br>I spent 3 weeks trying to learn my way around the program and a weekend throwing this together. I'm not proud of it at all, but it was a decent learning experience.
+
+- name: Blocks that Grow
+  img: /img/projects/blocks-that-grow.png
+  link: http://www.newgrounds.com/portal/view/618755
+  summary: By contrast Ant Drops, this Flash game was actually a lot of fun to make. I built this one using Flixel, which used Flash as an actual programming language. The game is kind of buggy, but it's probably my second favorite out of the 1GAM entries. Flixel came with very nice bounded-box collision rules that fit nicely into a simple platformer, even one with moving platforms like this one.
+
+- name: Bear and Hunter
+  img: /img/projects/bear-and-hunter.png
+  link: https://github.com/joedono/07-Jul-1GAM-Bear-and-Hunter/releases
+  summary: This was inspired by an old game we used to play during wrestling practice. One person would play the bear and sit with their back to the other player, who was playing the hunter. The hunter would have to crawl over to the bear, touch them, then get back to the start before the bear could pin them or drag them back to the bear's cave. The hunter could only crawl, but the bear could stand up and run. I ended up with this game where the bear has stolen your laundry. You have to get your laundry back to your house before the bear eats you.<br><br>I built this one in GameMaker Studio and it's the first time I used open-source assets from online. I did draw the bear myself in Inkscape though. The game looks pretty good, but very disjointed.
+
+- name: Filling in the Music
+  img: /img/projects/filling_in_the_music.png
+  link: https://github.com/joedono/08-Aug-1GAM-Filling-in-the-Music/releases
+  summary: This one was inspired by an iPhone game I played that involved clicking holes in the ground to start them filling up with paint. You had to carefully time and place your clicks so that you filled in the maximum area before your paint spilled out of one of the holes. That's the basic concept of this game.<br><br>I built this game using Haaf's Game Engine, which made this my first attempt at programming in C++. It was rather difficult at first since all the tutorials I had found on C++ didn't cover programs that had multiple files. I had to figure that out myself.<br><br>Other than that, the most difficult thing I had for this one was determining the scoring area with box scanning. I don't even know how to describe what I did and probably couldn't recreate it if I tried.
+
+- name: Keep-Up
+  img: /img/projects/keep_up.png
+  link: https://github.com/joedono/09-Sept-1GAM-Keep-Up/releases
+  summary: I really phoned it in this month. I picked up GameMaker Studio and made a dirt-simple keep up arcade game.
+
+- name: Sweet Sorting
+  img: /img/projects/sweet_sorting.png
+  link: https://github.com/joedono/10-Oct-1GAM-Sweet-Sorting/releases
+  summary: I built this one using ZGameEditor. It was the last entry where I learned to use a new library for it. ZGameEditor's big selling point was being able to create 3D games under 64kb in size. It certainly delivered on that, but it was rather difficult to use as well. The interface just wasn't easy to get used to in a month. I'm still kind of proud of my entry though.
+
+- name: Basketball
+  img: /img/projects/basketball.png
+  link: https://github.com/joedono/11-Nov-1GAM-Basketball/releases
+  summary: I had given up on using a new library every month by this point. It was back to GameMaker Studio this month, and a simple arcade game about trying to make free-throw baskets.
+
+- name: Snake Catcher
+  img: /img/projects/snake_catcher.png
+  link: https://github.com/joedono/12-Dec-1GAM-Snake-Catcher/releases
+  summary: I was really tired out by December, but I held on for one last haul. GameMaker Studio didn't fail me this month either and I finally succeeded in 12 games in 12 months!

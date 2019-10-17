@@ -1,0 +1,11 @@
+---
+title: Leveling Up
+category: game development
+---
+I'm starting to feel like I've leveled up as a game developer. Development on Bump in the Night has stalled a little bit, but I'm still finding things to do that will make the project better.
+
+I spent a couple hours last night trying to get Love2D to work on my RetroPie setup. The docs weren't that great, so I ended up failing, but I left notes for myself in case I ever decided to try again. On the one hand, some of the wikis said that just putting .love files in the right folder would get them picked up and listed on the emulation station. On the other hand, there are a lot of older forum posts where people are sharing what they tried while the feature was in development. It's really hard to get a grasp on the current state of the feature and exactly what I have to do in order to get it to work. I might reformat my RetroPie drive just so I can be sure that I've got the latest version of everything. I did manage to install Love on the system, but ran into a video driver error, and then I couldn't figure out what I had to do in order to update the drivers, if that is even possible. I've never browsed the internet from the command line before...
+
+The other thing that I just got done doing is adding a splash screen to Bump in the Night. I stumbled across a thread on the Love forums about adding a splash screen giving Love credit for powering the game. The thread lead me to [love-splashes](https://github.com/love2d-community/splashes) which added a nice bit of flair to my game. I decided to model my own splash for Little HIVE Studios. It's dead simple right now, just a couple images fading in on a timer, but given how many of my projects continue to rely on hump.gamestate, I think this will evolve with every project I do. This is what really made me feel like I leveled up. Adding a screen specifically to give myself credit up front for the game the player is about to enjoy. It's almost professional or something. My games are getting full screen states that aren't terrible. I'm adding controller support to them. And now I'm putting in a splash page like I'm a real company or something.
+
+Now I just have to find time to build the darned inventory system...

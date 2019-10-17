@@ -1,0 +1,11 @@
+---
+title: "1GAM July - GameMaker Studio - Bear and Hunter"
+category: game development
+---
+I've got the idea for this month's 1GAM. I'm going to be returning to an old favorite of a toolset: GameMaker Studio. I got it for 50% off on Steam this year. I've used GameMaker 8.0 earlier this year in 1GAM and previously on some older projects, so I have no excuse like I did last month or in April, where I was limited because I was learning an unfamiliar toolset while on a project deadline. I should actually be able to produce something with a little quality this month.
+
+The inspiration for this game was an old game we used to play in Judo practice, back when we had enough people to make it fun. The game was called Bear and Hunter. The rules were two players would sit on opposite sides of the dojo. One was the hunter and the other was the bear. The bear couldn't move until the hunter touched them. The hunter had to crawl, but the bear could stand up and run. The hunter had to crawl towards the bear, touch him/her, then crawl back to the other side of the room as fast as they could. The bear won if he caught the hunter and put him into a pin. The hunter won if he got back to the other side of the dojo. The hunter could also win by pinning the bear.
+
+I also wanted to recreate the feeling I get while playing Capture the Flag in any FPS nowadays. That rush when you have the flag, and the entire other team is bearing down on you, but you can see your home base and it's just sooooo close.
+
+That makes up the basic idea for this game. I want it to be a little on the humorous side. You'll play as a hunter, who is just minding his own business, when, one night, a giant brown bear steals all of your clothes. Every morning, you'll have to journey through the forest and into the bear's cave to retrieve some of your clothing. Of course, the bear won't let you go without a fight. As soon as you have a piece of clothing in your hands, the bear will give chase, and you'll have to make it all the way back to your cabin before he catches you. Mechanically, the game will be a 2D procedural side-scroller. Since I already know how GameMaker works, I can spend the majority of my time this month learning how to make a procedural platformer (finally).

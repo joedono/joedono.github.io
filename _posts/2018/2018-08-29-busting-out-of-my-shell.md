@@ -1,0 +1,13 @@
+---
+title: Busting Out of my Shell
+category: general
+---
+In just the past three days, I've volunteered to organize a D&D session on the fly at the barest suggestion of interest from my friend, I've signed up for a movie viewing through work with a bunch of strangers, and I'm seriously debating volunteering to run a game of Weave this weekend over Discord. The me from two weeks ago would have dismissed these thoughts and immediately forgotten even having them.
+
+I finally put into words the other day what I think has been wrong with me for a long time. I feel uncomfortable admitting that I want something. I haven't really wanted anything since I got my first job. By then, I had crossed off the only major thing on my bucket list, I was in love with an awesome woman, I had good friends, and I was working in the field I wanted to be in. With all of my long-term goals essentially met, I kind of...stopped. I never wanted very much in my life, but I just kind of went with the flow like that for around 10 years. That was enough to ingrain this uncomfortableness into my being very deeply. It was so deep, that I started subconsciously avoid wanting anything. It got to the point that, when I started consciously wanting opportunities to change, I couldn't find them.
+
+But now, it seems like a whole different story. After the life-changing vacation and reigniting my love of volleyball, I'm suddenly seeing opportunities for social interaction and friendship that I don't think I would have given a first glance, let alone a second. It also helped that I had a long talk with my wife about how we both feel guilty about going out and leaving the other one with our son all night. I feel guilty that I work all day, so I eagerly stay home every night and all day on weekends so she can go out. She feels guilty that the only "outside" thing I do is work, then I come home and basically work a second job raising our son. So I'm trying to break out of that too and feel more comfortable going out and doing things or organizing get-togethers with people.
+
+My other big thing used to be that I was terrified about messing with my wife's plans. So far, she's always been the more social of the two of us, so she's the one that gets invited for both of us. I would be scared to plan anything on my own in case she had already planned something for us. That's just me getting over it, communicating early and often what my plans are, and not feeling bad when I have to cancel something.
+
+I feel like Jim Carrey in Yes Man.

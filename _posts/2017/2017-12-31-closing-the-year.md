@@ -1,0 +1,11 @@
+---
+title: Closing Out the Year
+category: general
+---
+It’s been a real whirlwind of a year in 2017 for me. I managed to keep a tiny human life happy and healthy for a whole 365 days. We have an idiot in the big house. I was reminded how lucky I am to have the parents I do.
+
+I'm making good progress with Bump in the Night. I've got a house with a decent placeholder tileset for the floor and walls. I've got randomly spawning items and wolves that actually patrol around and chase after the player. I still have that stupid bug with the lighting engine, but I have an alternative engine that might work better. If it doesn't, then I'll be spending a month or two writing my own lighting engine. Hopefully, that isn't too too hard. The next thing I have to do is make the wolves react when they get shot. That'll close the game playing part of the loop so I can do some start-to-finish testing and fill in the rest of the blanks. I can get the lighting engine working, add a title screen, add game over states, add general juiciness to the first scenario, and then actually start playtesting before I go adding other scenarios. I'm still a good month ahead of where I thought I would be thanks to Christmas Vacation. I might actually be able to take this to completion.
+
+I unearthed my old project, The Great Inkscape. I was shocked to find that it still worked. I would have thought that Python or PyGame would have upgraded too much and made it incompatible. Maybe one day I'll rewrite it in LÖVE so I can do better with the splash screens and distribution.
+
+We celebrated my son's first birthday this week. Of course he got a ton of presents. It seems that the younger a person is, the easier it is to buy presents for them. And his grandparents didn't hold back with the doting and shower of presents. We're probably going to try and celebrate his unbirthday during the summer instead. Both me and my wife agree that childhood sucks when your birthday is too close to a normal holiday. It doesn't feel special in the slightest.

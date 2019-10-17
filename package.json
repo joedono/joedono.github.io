@@ -1,0 +1,23 @@
+{
+  "name": "joedono.github.io",
+  "version": "1.0.0",
+  "description": "LittleHIVE Blog",
+  "main": "RUNME.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joedono/joedono.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joedono/joedono.github.io/issues"
+  },
+  "homepage": "https://github.com/joedono/joedono.github.io#readme"
+}

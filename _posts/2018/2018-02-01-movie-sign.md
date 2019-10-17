@@ -1,0 +1,9 @@
+---
+title: We Got Movie Sign
+category: game development
+---
+[Movie Jam](https://itch.io/jam/moviegamejam) starts in less than a day and I think I've finally landed on the scene to inspire a decently cool game that I can get done in a week and a half. The scene I want to use is the scene from Jaws where the mayor has offered a reward for the capture of the shark that's been terrorizing the beach. Dozens of wannabe shark hunters set out. One of them manages to catch a small tiger shark or something and the entire island celebrates. Of course, that isn't the real shark and the heroes of the movie have to go out and face it on their own. The idea of a shark having to eat enough to stay alive but not eat too much to attract the attention of those dangerous humans struck a chord with me.
+
+There will be two bars to manage, hunger and attention. If your hunger gets too low, you die. If your attention gets too high, then humans will start hunting for you. You have to survive in this little slice of ocean on whatever comes into range without dying. Things that you can eat will include ocean wildlife such as seals (har har) and the odd human swimmer, sailor, or surfer. I want to include a mechanic where other sharks will appear from time to time. You can kill the other sharks, but you can't eat them. They'll be attracted to any kills you make while you're eating. If you gain too much attention, you can bite/kill something in a strategic location, lure the other sharks to the spot, then swim away and let the humans capture the other shark. That will drop your attention dramatically.
+
+Now I just need to find that scene again, pick out a decent quote, and use that as the game title so I don't wind up with another crappy name like "Game Off 2017 - In Space."

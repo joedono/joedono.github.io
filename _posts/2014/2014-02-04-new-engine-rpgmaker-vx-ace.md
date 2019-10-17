@@ -1,0 +1,19 @@
+---
+title: "New Engine - RPGMaker VX Ace"
+category: archive
+---
+I'm not allowed to talk about the project I've started working on, but I can share my opinions so far on the engine we're using to build it: RPG Maker VX Ace.
+
+I had heard of the RPG Maker line of software before, but I had never actually tried it out. It seemed to be too restrictive for me. It would be great if all you had was a story and needed an easy way to get it out, but I thrived on unique mechanics and small arcade games. My stories are usually pretty bad and lack any sort of depth or complexity. However, this time, the story and art are being done by other people. All I have to do is focus on the game development and balance. We've only just started building, so I've been working in a small, pre-made project. Just getting my hands dirty and experimenting with what VX Ace can do. Despite the limitations imposed by the engine, it's remarkable robust and easy to work with, so long as you stay within those limitations.
+
+Currently, my sandbox environment consists of a world map with a few (non-interactive) towns, defined regions where certain types of random encounters spawn, a single town with NPCs that can be conversed with, a pub with a small bit of main story content, an inn, and some shops. All of this was incredibly easy to put together in an engine that does most of the heavy lifting for you.
+
+My next piece will be to see if I can import external assets and use them instead. From what I've heard, VX Ace is great as long as you stick with what it comes with and the official resource packs available in their store. If you try to import anything that you've made yourself, it's a lot more work to get it to handshake with the engine properly. I tried importing a tileset I got from an RPG Maker XP resource pack, but pieces were getting cut off, half of the tile set needed to be on a different layer so I had to import it twice, and (worst of all) maps are limited to 5 tilesets. That last one means that I can't use any little one-off tilesets without making them part of a bigger file. I probably made a mistake trying to start with importing tilesets. I imagine that importing character portraits or background music would be a lot easier.
+
+Another thing I'm worried about is the restrictive size of the game window. Nearly all of the canned resources restrict you to a rather small window size. I don't remember the exact size, but it's smaller than 640x480. Most of the games I've built have been at least 800x600. It probably won't be that big of an issue, especially for a first try with the engine.
+
+One really neat feature that I haven't explored fully is the battle preview function. It allows you to sculpt an enemy encounter for the game, then test it on the fly with a specified party configuration. Which will save you the trouble of revamping the game so your party is at the point you want to test, then wandering about until you run into the encounter you want to try out.
+
+Another piece I'm really excited about is the script editor. I took a quick look through the Steam Store for some resource packs and the ones they have completely change the look and feel of the game. It was nice to see that I wouldn't have to put in too much work to deviate heavily from the default look the engine provides. Maybe I'll drop $12 and get one of the gritty resource packs to see how it's implemented. It might fit my project better anyway.
+
+So I'm pretty excited about this. I wanted to try out RPG Maker VX Ace for a 1GAM project last year, but I didn't think a month would be nearly long enough to get comfortable with the engine, then construct anything beyond a tech demo. This will be a good opportunity to learn a new engine again.

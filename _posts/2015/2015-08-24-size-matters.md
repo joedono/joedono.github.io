@@ -1,0 +1,19 @@
+---
+title: Size Matters
+category: rant
+---
+This has been bothering me for a while now. I haven't actually gotten into a discussion with anyone. I was prompted by a heated argument about whether Rhonda Rousey would survive a match with the men of MMA. I've been wrestling with a question that I'm not sure I like my own answer to.
+
+Does size matter when fighting?
+
+Looking back at other martial artists I've dealt with, a large majority of them will probably say "No. Fighting is all about skill and speed." Then I think about that minority. The people who would say "Of course it matters. Bigger people make bigger targets, sure. But it's harder to move them around, harder to hit them where it hurts, and they can usually take more hits before losing" are people that I've known longer, that I respect, and that I think of as wiser than the majority. So I'm going to agree with them. It's true that skill and speed matter more, but that doesn't mean that size doesn't matter at all. Put two MMA fighters into the cage. They are equal in skill. One is a little faster and smaller and the other is a little slower and bigger. I think the bigger person will have the advantage.
+
+Now, this only holds in competitions where strength is a main factor in the outcome. If we did the same comparison, but change the competition to fencing or basketball, then of course the smaller and quicker person would have the advantage. Fighting with weapons is far different from fighting with fists. Humans are much more resistant to blunt trauma than to stabbing or slashing. I'm a black belt in judo. I'm not very good, but I've fought people of a wide variety of skill and size. I've fought novices and experts who were smaller than me. I've fought novices and experts who were larger than me. I have an infinitely easier time fighting the people smaller than me, both those who are less skilled and those who are more skilled than me. Yes, there were a few who had skill that was leagues above mine, and they wiped the floor with me. But I still had an easier time against them then against the bigger novices. They had to work harder to beat me, despite the skill and speed advantages.
+
+So I believe that Rhonda is a very skilled competitor, enough so that she could probably make up for being outweighed by most opponents. But I don't think she could win against a champion above her weight class consistantly. It wouldn't even have to be from the men's division. Just go three weight classes up from her (if one exists, I'm not sure about MMA weight classes) and I don't think she could beat the champion of that weight class. The "champion" is the key word though. I believe Rhonda could wipe the floor with someone three times her weight if they weren't of that calibur.
+
+Actually, that brings up another really good point in favor of a "Yes" answer. If size doesn't matter, then why do all physical fighting competitions have weight classes? Gee, maybe some smart official looked back and saw that it wasn't really fair to pit the 120lb competitor against the 300lb competitor. Of course it wasn't. The only way that would work would be if the 120lb-er had been training his whole life and the 300lb-er started last week.
+
+But, I suppose the people who say "No" have a reason to. It's far harder to change your size (without compromising health and fitness) than it is to change you skill. Improving your skill requires intellect and instinct and a minimum of fitness. Things that are all easy to improve. Improving your size (again, without compromising health and fitness) requires at least a lifestyle change, and at most an act of God.
+
+So yes. I firmly believe that size matters in physical competitions.

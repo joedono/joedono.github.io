@@ -1,0 +1,13 @@
+---
+title: "1GAM June - HTML5 and LimeJS - Bently's Learning Lab"
+category: game development
+---
+We're almost halfway there! It's a new month, and that means a new engine and a new theme.
+
+This month's 1GAM theme is Education. I had a little difficulty getting inspired for this month, until a friend reminded me of all the educational DOS games I had played when I was younger. One of my favorites was Gertrude's Secrets. It's not really an educational game, per se, but it taught me a lot about how to think logically and how to spot patterns. Plus, it was fun as hell. It wrapped logic puzzles into a sort of dungeon crawler interface. You carried Gertrude the goose around the map. When you dropped her off in a puzzle room, she'd fly around and set up the puzzle for you. Solving the puzzles got you closer to the credits room and the world editing rooms. It was a fun little game, one that I felt comfortable I could put my own spin on.
+
+Then I went to choose an engine. Eventually, it came down to HTML5 or GameMaker Studio. I didn't want to go back to familiar territory just yet. I decided to save GameMaker Studio for a month where I wasn't quite as busy and I could afford to put some real effort into my game like I did in March with Crypt Crawler. So, I ran through the tutorials on HTML5 and settled on using LimeJS. Unfortunately, as I studied and learned what LimeJS could do, I started to realize that it was far more suited for mobile games and mouse interfaces. Plus, being an unfamiliar toolset, I had to scale my game idea back a bit. Gertrude's Secrets was a simple game, but I needed to go simpler.
+
+I came up with Bently's Learning Lab. Keeping with the theme of Education, this would be a simple, mouse-driven, game of match. A word or phrase would display on the screen along with 3 symbols or pictures that could match it. The player would have to select the correct symbol/picture before time ran out. The subjects would be The Musical Scale, The Periodic Table, and North American States.
+
+It still feels a bit like I'm phoning it in for this one too, but life has started getting in the way of this resolution more and more lately. Not to mention my loss of motivation this month. LimeJS has some resemblances to Flixel in that you just have to place an object on the scene and it's drawn for you. I'm still used to manually calling an object's "Draw()" function and having finer control over it. Maybe I'll ask one of my more artistically inclined friends to draw me a character spritesheet for Bently, if only to give the game some unique flair.

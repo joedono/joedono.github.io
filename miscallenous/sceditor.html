@@ -1,0 +1,26 @@
+---
+title: SCEditor
+layout: null
+---
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  {% include head.html %}
+  <link type="text/css" rel="stylesheet" href="/css/vendor/sceditor-default.min.css" />
+</head>
+<body>
+	<textarea id="rich-edit" cols="100" rows="30"></textarea>
+
+  <script type="text/javascript" src="/js/vendor/sceditor.min.js"></script>
+  <script type="text/javascript" src="/js/vendor/xhtml.js"></script>
+	<script type="text/javascript">
+    var textarea = document.getElementById('rich-edit');
+    sceditor.create(textarea, {
+    	format: 'xhtml',
+    	style: '/css/vendor/sceditor-base.min.css',
+      toolbarExclude: 'emoticon',
+      emoticonsEnabled: false
+    });
+	</script>
+</body>
+</html>

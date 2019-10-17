@@ -1,0 +1,15 @@
+---
+title: Moar Adventure
+category: art
+---
+I took the plunge and drew Superman.
+
+I usually draw during my kid's bathtime, which usually lasts around 30 minutes. A good chunk of time to make a quick sketch or make significant progress on a more complicated one. The entire time, he was looking over at my reference photo and saying "Supapan!! Supapan!!", which was adorable, of course. He wasn't nearly as interested in my drawing, but I'm not going to hold that against him.
+
+I think I went through 5 or 6 attempts at sketching each individual piece of his body. More on the arms and legs. Those damned subtle curves. But at the end of the day, I created a really impressive rendition of Superman from TAS, which is probably his simplest and most..... geometric appearance? Very square face, very smooth curves for the shoulders and muscles, very angular lines for the body, everything that makes something easier for me to draw. It was so good, that I snapped a pic of it when I was done with the outline and another when I was done with the shading. I don't like how the feet came out, and the face doesn't look bad, just that everything is slightly turned differently from the reference photo I was using. I'm still seriously happy with how it turned out. Like, I can't stop looking at my own art. Is that narcissistic of me? Or am I just taking pride in my accomplishment and enjoying the fruits of my labor? I'm going to try to convince my heart that it's the latter and have it stop trying to make me feel guilty for being proud of myself.
+
+After I finished the starter set of Pokemon, I started getting bored with the prospect of going through and doing more of them. I went back to the Sketch-a-Day app for some inspiration and the word of the day was "wind." After thinking about it a little, I remembered another giant trove of subjects that I already enjoyed drawing when I was little. Megaman Bosses. Not only are they completely made up of really simple shapes (at least the ones from the original series. I might tackle the X bosses later), but they're made up of mostly the same shapes. Every boss has roughly the same foot and arm shape with some really rare exceptions (I'm looking at you, Centaur Man). I have a ton of sketches lying around of Spark Man. He was probably the first thing I enjoyed drawing and the only thing I drew more than 2 or 3 times.
+
+I'm starting to get more excited for Inktober. It starts up next Tuesday. I've started looking at the prompts and seeing whether any of them cause any kind of immediate inspiration. No luck so far, but I can't wait to start posting these images elsewhere and seeing what people think.
+
+![Inktober Prompts](https://images.squarespace-cdn.com/content/v1/5af1bd791aef1d143f85e67e/1567315494055-9EETHXUUET9XHFJHGRNQ/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0topjEaZcWjtmMYdCWL4dkGbxs35J-ZjFa9s1e3LsxrX8g4qcOj2k2AL08mW_Htcgg/2019promptlist.png?format=500w)

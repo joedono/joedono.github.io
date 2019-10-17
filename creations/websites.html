@@ -1,0 +1,24 @@
+---
+title: Websites
+layout: static
+---
+<h1>Websites</h1>
+
+<p>I want to become better at designing more appealing websites, so I'm creating fake websites for fake companies to sharpen my skills.</p>
+
+{% for project in site.data.projects_websites %}
+<div class="row">
+	<div class="col-12"><hr></div>
+	<div class="col-12 col-sm-3">
+		<a href="{{ project.link }}" target="_blank">
+			<img src="{{ project.img }}" alt="{{ project.name }}" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="col-12 col-sm-9">
+		<a href="{{ project.link }}" target="_blank">
+			<h3>{{ project.name }}</h3>
+		</a>
+		<p>{{ project.summary }}</p>
+	</div>
+</div>
+{% endfor %}

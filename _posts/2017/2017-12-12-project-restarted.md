@@ -1,0 +1,15 @@
+---
+title: Project Restarted
+category: game development
+---
+As you can see from my last post, my entry into the Game Off 2017 game jam was a pretty good success. Rating is still going on. I'll find out in 10 days or so how I ranked. I'm fairly certain that I'll rank in the middle 40% or so. My game is polished, but it's nothing groundbreaking. There are a couple entries that I've played and rated that I have trouble believing they were finished in just a month. When I look at their commit history, I see that there's usually one big commit that adds the entire project to the repo. That might point to the project being completed on a different date and only just now uploaded to GitHub. Whatever, I learned something invaluable that I'm going to put towards my next project.
+
+The importance of not having perfectly clean or perfectly future-proof code. Seriously, there's leftover "run" code in my Game Off entry that never gets used.
+
+A long time ago, I had an idea for a game inspired by [Betrayal at House on the Hill](http://avalonhill.wizards.com/games/betrayal-at-house-on-the-hill) that I wanted to call Bump in the Night. The idea would be that you are woken up by a noise somewhere in your house. Something has invaded your home and you have to deal with it. I thought up 10 different scenarios that could be unlocked by playing through them. I had a grand vision of stealth mechanics, random house generation, and tense gameplay. I got the most basic implementation of a house with doors and a lighting engine, but then my motivation was destroyed when I encountered an extremely minor bug with the lighting engine where the player's flashlight would shine through multiple doors at full brightness. It was such a small and stupid thing that really shouldn't have turned me off. This is such a cool concept!!
+
+So, I'm restarting development on the first of my "big budget dream" projects. I only have a couple of these ideas. Something I think is really good but far beyond my skill set, financial abilities, and patience. But I think I can manage a 2D version of this idea. It'll be my first time implementing AI that's even remotely complex. I had tried a long time ago on a game I called Candlehead to build AI that would control rats in a sewer that would come out and stalk you if your light was below a certain level and would flee back to the nearest holes when you got bright enough again. I dropped that one because I couldn't create any interesting platforming puzzles for the player. Not so for this project. I already have the level design figured out and the scenarios are all outlined. I just have to actually fill in the programs.
+
+Another thing I've done with this is list out all the features I want to include in this game and broken them up by month. Turns out that I've gotten pretty good at hitting monthly deadlines, but anything longer than that and I lose interest in the project. The overall timeline is still long, but my taskboard is thankfully only showing me two months of work at a time unless I scroll around.
+
+Here's hoping I actually get a completed project out of this. I may even be able to sell it for a little!

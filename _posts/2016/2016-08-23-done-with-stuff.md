@@ -1,0 +1,11 @@
+---
+title: Done With Stuff
+category: general
+---
+We reached a pretty big milestone yesterday at work. All the hard work I put in the past 6 months finally came to a head with our release. Honestly, I'm not sure what to do with myself today, at least for the next few minutes. I have reviews to do and I could write test code, but nothing that I can get done in 5 minutes. So here I am, writing another blog post to a blog that no one reads, on a website I use for my personal front-end sandbox.
+
+The Explorer plugin for Notepad++ stopped working yesterday. That plugin was the main reason I used N++. I had used it for so long that I got used to where all the shortcuts were, how to accomplish the things that I needed to, and use the macros fairly effectively. I have switched to Atom, and it's not nearly as good. The explorer window is limited to the current "project" folder and I don't think I can bookmark certain files. There also doesn't appear to be a really easy way to execute batch scripts from in here, which is the other big thing I used N++ for. And now I'm having to deal with the "feature" where Atom will automatically add another newline to the end of the file every time I save it. I miss my toolbar with all the pretty little icons. I really hope that whoever wrote the Exporer plugin gets off their butt and figures out what's wrong with it. I suppose that might be something I could try to do.
+
+Welp, that was easy. I found a solution fairly quickly in fact. The Explorer plugin was disagreeing with the latest Dropbox update to their shell extensions. Turning the shell extensions off fixed everything. I don't use the shell extensions for anything on this computer. I barely use Dropbox at all anymore. It's mostly there for our grocery list and the odd document I have to print out at work. I used to use it for the store of images when I was learning how to use Inkscape. But like all of my new technology skill endeavors, once I had gotten through the basic tutorials and a few of the more complicated ones, I turned it off and never looked at it again.
+
+...now that I think about it, it'd be completely worth it to import the icon for this website into there so I could save it in any size.

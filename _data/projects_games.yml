@@ -1,0 +1,19 @@
+- name: The Great Inkscape
+  img: /img/projects/inkscape.png
+  link: https://github.com/joedono/The-Great-Inkscape/releases
+  summary: This was the first game I ever built that I would consider complete. It has a title screen, gameplay, and credits. A full game loop. I built it using Python and PyGame during the period just before the game Unfinished Swan came out. I was so frustrated waiting for the game to come out that I went and built a 2D version myself.<br><br>You play as a little black square with legs in a completely white world. You can't see any of the platforms or hazards, but you are equipped with a black paintball launcher that lets you reveal things by splattering them with paint. There are basic monsters that growl when you get close to them. They won't hurt you unless you get paint on them, but you can't see them or any of the other hazards unless you throw paint around. The people that I've shown this too all had very satisfying reactions to accidentially getting paint on the monsters.<br><br>I even managed to include a half-baked story about something calling out to you, slowly going mad from lonliness in this white world.
+
+- name: Glorious Morning
+  img: /img/projects/glorious.png
+  link: https://github.com/joedono/Glorious-Morning/releases
+  summary: This was my entry into Global Game Jam 2016 and my most complete and polished project to date. The theme for that jam was the word "ritual." That immediately made me think of a person's morning ritual so I decided to make a game that invoked the feeling of waking up in the morning. You avoid rain droplets until the sun rises.<br><br>I built this one in LÖVE.<br><br>My favorite thing about this game was the accidential difficult ramp-up I discovered while playtesting. Because the rain drops are just a little darker than the sky a full brightness, there is a brief period where they are the same color as the sky while the sun is rising. This causes them to disappear against the sky, which halves the amount of time the player has to react to them.
+
+- name: Game Off 2017 - In Space
+  img: /img/projects/gameoff2017.png
+  link: https://github.com/joedono/Game-Off-2017/releases
+  summary: This was my entry into GitHub's Game Off game jam for 2017. The theme that year was "throwback." I immediately started thinking about a game that could make use of a "throw it back" mechanic and built this shooter where you have to collect certain types of bullets and throw them back at the enemies. This was the first game where all the art assets I used were from OpenGameArt.org AND were all from the same artists. So, it's probably my most artisticly unified game so far. This is another game built using LÖVE.
+
+- name: Eating Machine
+  img: /img/projects/eating-machine.png
+  link: https://github.com/joedono/Eating-Machine/releases
+  summary: My entry into the 2018 Movie Game Jam. The idea for this jam was to pick a movie scene and use it as inspiration for a game. There were a ton of suggestions, but I ended up going with the scene from Jaws where the stupid fishermen of Amity Island go out to catch the shark, but they're too stupid to understand that the tiny tiger shark they do get isn't the one responsible for the deaths so far. I actually did some of my own art for this one. I made the shark silhouette and the swimmer animation (which of course, aren't very good). This is yet another game built using LÖVE.

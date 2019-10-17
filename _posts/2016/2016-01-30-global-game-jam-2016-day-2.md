@@ -1,0 +1,13 @@
+---
+title: Global Game Jam 2016 - Day 2
+category: game development
+---
+Day two is drawing to a close at the Global Game Jam 2016. And...I'm done with my project already. I'm pretty sure I have the most complete and juicy game in the room, and I have one of the few completed virtual games. The majority of the groups in here went with analog games. Admittedly, the ones I helped out with playtesting were a lot of fun. I'm proud of my final product, which I will put up on my Projects page as soon as I have access to my own computer, but I feel like I missed an opportunity to stretch myself a little. I went with a formula that I've created a lot (flying avoid) and just added a bunch of effects to it. The base gameplay is really simple and overdone, which means it was a safe choice for ease of use and a long record of being fun. I spent most of my development time syncing the action to the music. I don't think I got it as closely sync'd up as I wanted, but the tempo of the game changes with the energy level of the music, so I'm really happy with it.
+
+I don't know what I'm going to do tomorrow. I've already uploaded the game up to the GGJ website to avoid the last-minute upload rush tomorrow night. I hope I didn't break any rules by uploading early. I put a copy up on my cloud and closed everything on my task board.
+
+I had a minor realization with how much I've grown since graduating college. There are a couple of graduates that came back for this event and one associate professor (I think) that's making a game. The rest are students, and oh my god... I watched a group completely fall apart over their lack of an artist. One member tried to force the group to abandon their project and build a board/card game. Another one absolutely refused to continue until he had real art to work with. The last one is sticking around and looks like he managed to pull something together by himself. I feel bad for him.
+
+I'm looking forward to the entire group coming back together tomorrow. I was told that there was a group of 6 students who were all roommates. Once they got the theme and the diversifiers, they moved everything back to their townhouse to save room here. Admittedly, the computer lab here is kind of small, especially with 3 groups building board games and taking up all the non-computer tablespace.
+
+I just wish I knew Unity so I stood a chance at contributing to one of the other projects. But Unity is one of those engines where you have to know everything about it before you start working on a project. Or at least you have to know a lot more than other libraries. Well, I'm inspired. I still have it installed on my home computer. I'll buckle down this year and see if I learn enough to use it to create something decent.

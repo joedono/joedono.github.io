@@ -1,0 +1,62 @@
+---
+title: Games
+layout: static
+---
+<h1>Games</h1>
+
+<p>These are the games I've built over the years. There are actually a lot more, but most of them didn't quite make it to "complete".</p>
+
+{% for project in site.data.projects_games %}
+<div class="row">
+	<div class="col-12"><hr></div>
+	<div class="col-12 col-sm-3">
+		<a href="{{ project.link }}" target="_blank">
+			<img src="{{ project.img }}" alt="{{ project.name }}" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="col-12 col-sm-9">
+		<a href="{{ project.link }}" target="_blank">
+			<h3>{{ project.name }}</h3>
+		</a>
+		<p>{{ project.summary }}</p>
+	</div>
+</div>
+{% endfor %}
+
+<hr>
+<h2>1GAM 2013</h2>
+
+<p>
+	<a href="http://www.onegameamonth.com/" target="_blank">OneGameAMonth</a> is a year long game jam meant to help you level up your gamedev skills.
+	The overall goal is to build one game every month for a year. I participated in 2013 and gave myself the additional goal of trying out a different
+	gamedev tool every month. In the years before 2013, I had spent my free time perusing the internet looking for the latest and greatest gamedev tools.
+	Unfortunately, I reached a point where I was spending more time collecting gamedev software than actually using it. I wanted to change this,
+	but couldn't find the motivation to do it. Then I heard about this game jam challenge and off I went. I even managed to make it onto the
+	high score leaderboard. I think I might still be there.
+</p>
+
+<p>
+	You'll notice that there are only 11 games in this list. I attempted to build a game in June using LimeJS. It was a nightmare to compile and get it
+	to work on my own machine, so I have zero confidence that it will work on anyone else's.
+</p>
+
+<p>
+	Check out my profile <a href="http://www.onegameamonth.com/FireSpinnerJoe" target="_blank">here</a>.
+</p>
+
+{% for project in site.data.projects_1gam_2013 %}
+<div class="row">
+	<div class="col-12"><hr></div>
+	<div class="col-12 col-sm-3">
+		<a href="{{ project.link }}" target="_blank">
+			<img src="{{ project.img }}" alt="{{ project.name }}" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="col-12 col-sm-9">
+		<a href="{{ project.link }}" target="_blank">
+			<h3>{{ project.name }}</h3>
+		</a>
+		<p>{{ project.summary }}</p>
+	</div>
+</div>
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+title: "Game Experience - Rock Band"
+category: game experience
+---
+Ah, Rock Band. The game for people who want the experience of being in a band without any of the effort of learning to play, going on tour, and dealing with fans. This game series started when I was in college and was the second biggest reason my friends and I got together to play games (the biggest reason was Super Smash Brothers). We played this game for hours on end and some of us got really good at it. I couldn't sing and I was just ok with guitar/bass. I was awesome at the drums though. I played it so much that, when I bought my own copy of the game, I eventually had to buy a metal foot-pedal plate to repair the plastic one I snapped in half during play. I injured my wrist at some point when I was really in to this game. I'm convinced that I played this game so much during recovery that I doubled my recovery time.
+
+Whenever I got really into a game like this, I would eventually be able to play whatever song the game had designated "hardest" on its highest difficulty, but I wouldn't be able to play the three or four songs right before it. It happened in DDR and again in Frequency. I could play "Won't get Fooled Again" all day, but don't ask me to play "Timmy and the Lords of the Underworld." I could just barely make it through "Painkiller" but not "Shoulder the Plow." I was selectively really good.
+
+The game had two problems for us though. One was the peripherals. We were college students. We moved between the campus and home during summer vacation and we changed where we lived on campus every year. This game doesn't exactly lend itself well to traveling around.
+
+The other problem was more of a theoretical one. We were worried about the music industry as a whole. We thought everyone who played this game was playing it instead of actually learning a real instrument. All those kids (just like us) who would have grown up into the virtuosos and hit stars of the future were wasting their time playing a video game for the same experience. In 10-15 years, the music industry would collapse from lack of talent, all because of this game. Of course, it's been about 10 years since we thought about that, and the music industry still has good talent in it, but it was fun to think about at the time.

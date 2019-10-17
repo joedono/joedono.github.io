@@ -1,0 +1,9 @@
+---
+title: "Getting Ahead of Myself"
+category: archive
+---
+Design, then test, then continue design, then test. I have encountered the dangers of working out of sequence. I try to keep fairly detailed notes about what I want to do next, but sometimes the opportunity is just there. I graphed out 2 more areas for Unbalanced Equation: Cloud and Cavern, but while I was building Cavern in the game itself, I had to keep reminding myself what my intended sequence is.
+
+The idea that I have for the sequence of play is this: the player makes their way to the Plains and encounters a fork. One path is blocked by Barrier 3 and leads to the Clouds, one path is blocked by Barrier 4 and leads to the Mountains, and the last path is unblocked and leads to the Cavern. In the Cavern, the player will obtain Weapon 3. The player will backtrack to the fork in Plains, and use Weapon 3 to break down Barrier 3 and proceed into Clouds. While in Clouds, the player will enter a room that will stop them from backtracking. They will obtain Weapon 4 in this room and be forced to proceed to a boss battle in Clouds. I haven't decided what this battle will be or what Weapons 3 and 4 will be. I know that, after defeating the boss in Clouds, the player will be sent to a different section of Cavern and use Weapon 4 to break down a barrier. The player will proceed through the areas Ruins, Water, and a section of the Final Lair before finally arriving back at the fork in Plains. The player will use Weapon 4 to break down the barrier and proceed with the game.
+
+Huff, huff. So there's a "short" guide to the middle of the game as it is so far. Here are some screenshots!

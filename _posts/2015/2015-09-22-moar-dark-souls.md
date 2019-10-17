@@ -1,0 +1,13 @@
+---
+title: Moar Dark Souls
+category: gaming
+---
+I have hit the wall. I made it through Blighttown, I killed the Moonlight Butterfly and Great Grey Wolf Sif. I met Kingseeker Frampt and he told me to go and get the Lordvessel. You all know what that means. It means I'm crushing my head against Fatman and Robin in castle de Anor Londo. Despite the dynamic duo making my life hell, I'm still riding the high of accomplishment from finally opening the shortcut to their room and being able to bypass those damned archers. They were seriously the cheapest enemies I have encountered so far. Of course, once I figured out that you could lure one of them to just walk off the edge, it made them a little easier. But every time I died to them, I had to go through and kill 6 Batwing Demons one at a time. Ugh.
+
+Along with the shortcut, I have access to the Giant Blacksmith finally. He forged me Quelagg's Furysword, which is *awesome*.
+
+That's one thing that impresses me about Dark Souls and simultaneously makes me feel like a giant nerd when talking about it. The names of things. I count 10 different names that won't mean anything to anyone who hasn't played Dark Souls in the paragraphs above. And I've been pouring over the wikia in the massive amounts of downtime I have at work. So I'm brimming with words and names that no one I know will understand. Seath the Scaleless, Gravelord Nito, Centipede Demon, Ash Lake, Solare of Astora, Sen's Fortress, Great Chaos Fireball, you get the idea. There is just so much lore in this game. And, much to my relief, it's all actually there in the game somewhere. Most of it is in item descriptions which took on whole new meaning when I realized that you mostly find items on the corpses of their owners. I had assumed that you found them on corpses of random other undead adventurers like you. Then I found a few items of significance on corpses in places of significance.
+
+I'm also starting to pay more attention to the environmental storytelling that's going on. On my trek through Anor Londo, I noticed a bunch of statues of characters I recognized from the wiki. Then I entered the castle and started wandering through the various rooms and chambers in there. I found a room where all the walls were covered with mounted dragon heads and knew that it belonged to Dragonslayer Ornstein. It was so cool.
+
+I'm still having a blast, but I can't wait to unlock bonfire warping.

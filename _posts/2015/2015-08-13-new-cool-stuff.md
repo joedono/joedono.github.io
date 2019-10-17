@@ -1,0 +1,11 @@
+---
+title: Cool Stuff
+category: cool stuff
+---
+I've had a "Projects" link at the top of this site for a while now, and it's just linked to a blank page. Today, I finally decided what I want to do with it. It's going to be my "Cool Stuff" section where I put cool programing libraries that I've found around the internet, with a focus on HTML and Javascript. The first two are Reveal.js and SCEditor.
+
+Reveal.js is a presentation framework that let's you build an HTML page and then have it display like a presentation. The one on the Cool Stuff page right now is the sample from the Reveal website, but it gives a really good idea what the library can do. I'm really impressed with the mobile integration. I loaded up the presentation on my phone, and was able to swipe through the presentation with incredibly minor responsiveness issues. It doesn't respond quite as well as default swiping, but a normal user wouldn't notice it. Maybe one day I'll turn that into an actual presentation of something.
+
+SCEditor is a WYSIWYG HTML editor that a friend of mine used on his forums. I've had experience with other WYSIWYG editors, namely TinyMCE and Kendo Editor. What I liked about SCEditor is that it handles copy-pasted text better than the others. Kendo Editor is a paid tool that I use on one of my professional projects. Our biggest problem is people copying things from MS Word to it. IT does its level best to preserve formatting, but it ends up loading the text up with <table> tags and sending text off the page. I know there's only so much you can do when you give users a WYSIWYG editor and confine their output into something that has its own styling, but I was seeing flying text far more often than I should. SCEditor handles that by stripping out most of the formatting that it doesn't understand, which I frankly like better.
+
+Now I just have to make sure I don't fall into the rut I was in with game development. Where I spend all my time collecting cool tools and no time actually using any of them.

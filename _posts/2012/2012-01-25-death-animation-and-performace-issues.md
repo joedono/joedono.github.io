@@ -1,0 +1,9 @@
+---
+title: "Death Animation and Performace Issues"
+category: archive
+---
+Levels 1-4 have been mostly completed in terms of platforms. I removed the enemies for now so I can focus on making the platforming fun. I've tested each level out with debug mode on, so next will be testing if the player can make it through the levels without being able to see the platforms and hazards.
+
+I've drawn a rudimentary death animation for the character. I guess he's supposed to be blowing up. I had wanted the player dying to spawn a group of ink balls that would scatter and paint the hazard the player ran in to. This wouldn't be necessary for the Polar Pigs (as I'm going to name them) because they can't kill you unless they're already inked. The problem with spawning the ink balls upon death is that the player is already inside the collision box for the hazard. So, while the paint balls do the job and color the hazard for the player to see, they do so after only one frame. The player doesn't see the paint balls fly. For now I'm just going to draw the hazard the player ran in to.
+
+I also had a performance issue with Level 3. Levels 1, 2, and 4 are made up of about 3500 tiles each. Level 3 is made up of 9000. For some reason, that many tiles caused enough of a resource drain that the frame rate suffered. However, the problem went away as soon as I turned Debug mode off. So it looks like the problem was making the game draw all the walls, even those that were off-screen. I turned Debug mode back on, but made the game check if a wall was on screen before drawing it. Performance went back to normal after that.

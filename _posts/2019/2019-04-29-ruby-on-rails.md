@@ -1,0 +1,17 @@
+---
+title: Ruby on Rails
+category: web development
+---
+Picked up another new language/framework this week. I had some spare time at work so I started trying to learn Ruby on Rails.
+
+It's a very...strange language. It's somewhere between Python and Lua. I'm so used to C# that I forget what it's like to program in something that doesn't require empty parentheses for every method call and semi-colons at the end of every line. Admittedly, it makes it hard to read sometimes when I don't know whether I'm retrieving an instance variable or calling a class method. I suppose an instance variable should have the @ symbol in front of it, although that's another convention I'm having a weird time remembering. Local variables are normal, instance variables start with @, static class variables start with @@, constants start with an uppercase letter, and global variables start with $. PHP had some sort of convention kind of like that where private variables started with \_, but that was just convention and didn't actually enforce anything.
+
+That's another weird thing. Ruby requires that all private class methods be after the public ones, in the "private" section of the class. Every other language I've worked with just does that as a coding standard suggestion instead of a requirement. The motto of Ruby is "convention over configuration," which seems to mean that it locks you into certain coding standards and naming schemes. So long as you follow the conventions, your code is extremely simple. I've only built the site from the tutorial, so I haven't run into any issues with that, but I know enough to realize that such issues are not far away...
+
+But...I kind of like Rails. Setup was (relatively) painless once I got the right tools installed. The tutorials really need to settle on what you have to download. I was 85% of the way through installing the individual tools (Ruby itself, the dev kit, Rails, SQLite) when I found the link in the tutorial to the Rails Installer that just bundled everything together. After that, it was smooth sailing.
+
+So I kind of want my next project to be a little more full-featured than my previous ones. Since I was limiting myself to hosting on GitHub Pages, I was also limited to rich client-side apps and consuming free APIs. That's how I got Dandy's Game Shop and HIVE Weather. I've signed up for a Heroku account. I have a bit of experience managing one from some previous experiments.
+
+Now I'm back to my usual problem. I have great tools that I want to try out... but no ideas for what sort of project to work on. I toyed with the idea of converting the convention website to Rails, but that would be a lot of work and nothing new. I want to make something that I might actually be able to use. Unfortunately, all the really cool stuff is just fancy front-end stuff that doesn't require a back-end at all. The basic problem all websites solve is being able to store, access, and manipulate data from anywhere. What sort of data am I constantly wishing I could update from anywhere? Maybe I could use this as a start to a side-hustle, offer my site for SaaS. Maybe I could aggregate something? That seems dumb. I really wanted to make that stock record checker, where you could input a symbol, a date, and how much you'd spend on shares, and the site would tell you how much the shares you bought on that date were worth today, but I didn't spend enough time looking for an API that would give me all of that data.
+
+Maybe I'll come up with something soon...

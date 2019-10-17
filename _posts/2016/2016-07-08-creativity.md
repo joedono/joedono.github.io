@@ -1,0 +1,15 @@
+---
+title: Creativity
+category: web development
+---
+We just got done with a massive brainstorming session where we tried to come up with a name for our new project. There really was no helping it. We weren't going to decide on a name until someone clubbed us over the heads and said "This is what we're calling it and that's final!" Even the initial name generation session was in danger of going until we ran out of post-its. Not being a designer or generally creative person myself, I had very little input after the name generation phase was over. There were just too many questions that needed answering and no one who had the answers. Mostly, those questions were similar to "what kind of image do we want to project to our customers?" I haven't the slightest idea. With my own projects, naming is pretty easy because I have names other people have thought up previously that apply to my project. I once built a website my friends and I could use to plan our convention trips. The biggest features were that it auto-calculated how much people owed on the hotel bill based on how many nights they stayed with us and a voting system for coming up with the convention soundtrack. We were already calling ourselves "The Otacrew", so that made "Otacrew Planner" an easy choice for the website. To anyone outside my crew, it was catchy, had the purpose spelled out, and the target audience hidden in a neat little play on words. To my own crew, it was personal and felt like we owned it. Unfortunately, my group of friends didn't stay together very long after that. We tried to put PayPal payments on the website so the hotel and gas expenses could be taken care of before the convention, but I didn't kmow enough back then to do it right. Either way, the name came easily.
+
+Even the name of this website has a story where it evolved from a name other people had. You can read all about the Little HIVE name on the About page.
+
+I also put together a post earlier about Blue Box Studios, which is what I thought about changing the name of this blog to a while ago.
+
+My point is, coming up with a name from scratch is hard and I absolutely do not have the mind for it. As far as I know, all names are plays on other words. I just looked up the origins of Google and Xerox. Like I thought, Google is a play on googol, which is a number with 100 zeros. It represented the creators desire to index all of the internet. Xerox originated from the word xerography, which is a Greek word meaning "dry writing", which fit the new dry printing technique used in the machines. That was eventually incorporated into the name of the company, which was originally Haloid, into Haloid Xerox. The "Haloid" was eventually dropped and we were left with Xerox.
+
+And now I've been hit with inspiration.
+
+Right, now that that's done, I'm bored again. Back to the state where I feel like I should be doing something, but I honestly can't think of anything to do.

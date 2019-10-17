@@ -1,0 +1,11 @@
+---
+title: "Game Experience - Punch Quest"
+category: game experience
+---
+What a shift this will turn out to be. Punch Quest is (gasp!) a mobile game for iOS and Android developed in 2012 by MadGarden and RocketCat Games. I still play it and still enjoy every second of it. I enjoy it because it's simple, you can play for 5 minutes or an hour without it becoming too stale, and the real money market isn't thrown in your face every few minutes.
+
+The formula is fairly standard. It's a two-button side-scrolling endless runner about punching things. You punch ogres, skeletons, bats, wraiths, and zombies. You occasionally turn into a gnome or a rabid goaticorn. You earn Punchos as you play and complete objectives that you can use to purchase upgrades, special attacks, and...hats? Yes, what would a mobile game be without a hat market.
+
+Unfortunately, because I'm still playing it and there isn't any sort of character development, it's difficult to talk about highlights or fond memories I've had while playing this game. The only thing that could qualify was when I finally reached the "end" of the game and died to the final boss. I've only ever gotten that far once, and I haven't given up yet.
+
+What I could talk about is the effect this game has had on me at this stage in my life. I've been shying away from mainstream games and started exploring some of the lower budget titles. Other than the Resistance series, this is the first game where I have purposely sought out other games by the same developer. I follow MadGarden and RocketCat on Twitter (they even respond to me sometimes!). I have tried out their other games based on nothing more than they made them. MadGarden's Chillaxian was really good and stayed on my phone for quite a while. I played RocketCat's Mage Gauntlet and Hook Champ with similar levels of enjoyment. They're all good quality, but none of them really grabbed me and held my attention like Punch Quest did. I read up on them a little after playing them, and discovered a link between MadGarden and myself. Chillaxian was created during #1GAM 2013 for May (?), the same month that I created Blocks that Grow. MadGarden may not think of himself as a celebrity, but the fact that I found him/her/them through his/her/their work sure makes it seem like that to me.

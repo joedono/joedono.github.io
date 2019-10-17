@@ -1,0 +1,11 @@
+---
+title: "Keeping Motivated: One Game A Month"
+category: archive
+---
+Some time last year, several people I know participated in something called NaNoWriMo (National Novel Writing Month). Authors sign up and pledge to write around 20,000 words every day for the entire month. There's progress tracking to keep everyone honest and it was a great motivator for all the participants I knew. It made me very jealous, since I didn't think there was anything equivalent for game developers. My Google-Fu did not fail me, and I discovered <a href="http://www.onegameamonth.com/">1GAM (One Game A Month)</a>.
+
+So I will be participating in 1GAM. With only one "complete" game under my belt, I'm not sure how well I will do. It's not a competition or anything. There are achievements, but those are primarily for personal motivation. It's all handled through Twitter and is managed by @McFunkypants. You can follow the event at <a href="https://twitter.com/OneGameAMonth">@OneGameAMonth</a> or by searching for #onegameamonth on Twitter. My handle is <a href="https://twitter.com/FireSpinnerJoe">@FireSpinnerJoe</a>, but I will probably be posting stuff here too.
+
+My friends who did NaNoWriMo (who were successful) all suggested planning ahead of the actual mad dash during the month. So I have a Google Doc document to keep track of my basic ideas for each month. I won't put too much stock in it, since forming teams is encouraged and other people might have their own ideas. I have an okay idea of how the first couple months are going to go. Unless something else turns up, I'll be using XNA for 2D games and Unity3D for 3D games. I will be participating in <a href="http://globalgamejam.org/">Global Game Jam</a> in January (jam games are allowed in 1GAM), so that will give me the month to get familiar with Unity and take care of my January entry. I'm probably going to build something simple in XNA for February just to relearn the library (again, unless something better catches my eye). After that, all bets are off. If I end up with a good track record for those first two months, I can start looking for teams.
+
+Wish me luck!!

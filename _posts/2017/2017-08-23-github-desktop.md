@@ -1,0 +1,7 @@
+---
+title: GitHub Desktop
+category: web development
+---
+I'm really only making this post to try out the new GitHub Desktop program. I've been using GitHub for Windows for almost as long as I've been working on personal projects. I did get my start using Google Code for version control, and it was decent. Like most version control services besides GitHub, it supported multiple different types of version control software. I got my absolute start with Mercurial/Hg, and I hated it. The distributed VC model was completely foreign to me. I was very happy when my next project used Subversion and the ones after that have used TFS. I've made their ability to cherrypick and merge individual changesets between branches a central part of my professional workflow. Now, however, I'm going to have to abandon that. We're switching to Git in the near future and I'm not sure what sorts of changes I will need to make. Supposedly, Git is much better at managing throwaway feature branches. So instead of having a dedicated dev, qa, and production branch, like I do in my TFS projects. You have the master branch for release, the staging branch for qa, and then a myriad of feature branches for dev. I just don't know how you deal with that without a huge amount of merge conflicts. Every time I've tried to work with a feature branch, I've run into impossible conflicts.
+
+It's going to be interesting.

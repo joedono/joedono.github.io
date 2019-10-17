@@ -1,0 +1,5 @@
+---
+title: "Incompatibilities and Open Source"
+category: archive
+---
+You'll recall an earlier post I mentioned that I got my hands on Box2D and wanted to give it a whirl. I downloaded the Python port to give it a try. After downgrading my copies of Python and Pygame, I finally got Box2D's blank testbed console to fire up. I dove into the source code and told it to load one of the pre-packaged testbeds so I could see what it could do. I was extremely surprised at what happened over the next half hour. I actually sat there, debugging this library, just to get one of their prepackaged showcases to work. I realize a few things could have gone wrong: I had the wrong versions, I wasn't launching the tests right, I hadn't configured everything properly. But what really pissed me off was that there wasn't any documentation beyond the API anywhere. All the tutorials and FAQs that I found were for Box2D 2.1, which hasn't even made it out of alpha yet! I also understand that Python was one of the later ports of Box2D and not the most popular. Maybe I'll dig out my C++ compiler and give that version a try *shudder*

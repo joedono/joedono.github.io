@@ -1,0 +1,7 @@
+---
+title: "Drawing and Animating Sprites without Details are Hard"
+category: archive
+---
+I've encountered one the difficulties with drawing for a game where the primary gimmick is color tricks: It is impossible to put details into sprites that can be only one color. I originally made the enemies in the shape of Ghosts because they were simple, slightly scary, and made good placeholders. I had imagined replacing them with some kind of really detailed yeti monster or something. But every time I went to add detail to the new sprite, I kept having to remind myself "No outlining, no shading. You can't use ANY other colors". So here are the old and new enemy sprites. The new one looks better when animated, but kind of reminds me of a combination of a polar bear and a white pig or something.
+
+The second screenshot also showcases the animation of the enemy getting soaked in ink. I realized that there wasn't enough time between a player accidentally soaking an enemy with ink and the enemy starting to pursue the player (read: there was NO time between. It was instantaneous). So I added some time to show the enemy actually getting soaked to give the player time to process what was coming next. The monster is there, and it is NOT happy.

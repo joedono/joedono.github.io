@@ -1,0 +1,15 @@
+---
+title: Here Again
+category: general
+---
+Here I am again, for the third day in a row. You'd almost think I was unhappy with how I spend my days, wouldn't you?
+
+I've got nothing to say, really. I only have to be here for a couple more hours, and then I get to go home. I just know that tomorrow and the next day are going to drag even more. At least I have a release scheduled tomorrow. After that, I get to move a bunch of things around and actually expose the new stuff to people. The only interesting thing happening to me before the weekend is I'm going back to the chiro. I apparently stretched in a bad way this morning and my back has been painful ever since. I really hope I can get this fixed soon. I've been doing real good, but the pain hasn't gone away completely in a long time.
+
+I'm working up the nerve to message some new online friends. I might just do it this week out of sheer boredom. Another reason for this might be that I'm back on the trying to give up soda train and am currently lacking caffeine. I cheated a whole lot over the weekend, also due to boredom. October is just getting started, and my weekends are going to be chock full of absolutely nothing. Maybe I'll try to put together a play date or something for my kid. That would at least get us out of the house on a weekend or two. I have to survive 4 weekends before things change. Maybe I'll look and see if there's an event happening and send my kid off to the grandparents for a day. Maybe I'll give that a try for the Sunday after next. I think my wife is taking our kid somewhere, so it'd be the perfect time to go out somewhere by myself.
+
+Thank god, I just remembered that I have an emergency store of aspirin in my car. Today should get a whole lot better now. Just 90 minutes left. I could make it 60 if I left when most other people leave.
+
+I wish my elbows would also stop hurting. I apparently have been idly practicing volleyball setting to much and my triceps and their tendons are complaining. It's mostly the tendons. I never thought that volleyball would leave me as sore in specific places as it does. I tried serving in the last set yesterday, and my shoulder and elbow just were not having it. My serves weren't nearly as powerful as they should have been. Man, I must be getting old.
+
+Even if I have to slog through the rest of this week, the weekend and the early days of next week promise to be really fun. The D&D session we've been planning that probably would have died at the initial proposal if it wasn't for me will finally happen. We have an early game on Tuesday, so I don't have to be weird about whether I'm coming home for dinner. And then there's all the stuff happening this weekend. I really hope it will make up for the shitty Wednesday, Thursday, and Friday I'm going to have.

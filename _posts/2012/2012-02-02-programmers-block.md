@@ -1,0 +1,7 @@
+---
+title: "Programmer's Block"
+category: archive
+---
+So it's been a couple days since The Great Inkscape was released. It is a pretty good feeling to watch the download counters slowly creep up. However, the good feeling is dampened by the fact that I have yet to receive any feedback on the game. I expected that, seeing as how I didn't advertise it very much, other than here and pygame.org.
+
+That being said, waiting for inspiration sucks. I keep a folder of ideas that I've come up with over the years, but most of them are too complicated, too simple, or downright impossible for me to build on my own with the skills I have now. When I first started making games, my research said that the typical ladder of progress goes: Pong -&gt; Breakout -&gt; Tetris -&gt; Pac-Man -&gt; Mario. Meaning, you build an extremely simple game, then add a scoring system and levels, then add a puzzle element and increasing difficulties, then add enemies, then add actual levels. Following that sequence is supposed to take you from beginner game developer, to being able to construct your own ideas. I've reached the end of the road. I've built a puzzle platformer. Now, supposedly, I have enough skill to run with my own unique ideas and make the games I want to play. Unfortunately, when the options are endless, I can't decide on any of them.

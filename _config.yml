@@ -1,0 +1,25 @@
+name: "Little HIVE"
+description: "Musings of an independent developer"
+url: "http://joedono.github.io"
+paginate: 5
+paginate_path: "/page/:num/"
+exclude: [package.json, package-lock.json, README.md, RUNME.bat, RUNME.js, node_modules]
+gems: [jekyll-paginate, jekyll-feed]
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "post"
+    -
+        scope:
+            path: "category"
+            type: "pages"
+        values:
+            layout: "category"

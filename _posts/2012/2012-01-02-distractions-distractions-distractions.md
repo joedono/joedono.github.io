@@ -1,0 +1,7 @@
+---
+title: "Distractions Distractions Distractions"
+category: archive
+---
+I have successfully conquered the lure of starting other projects when I come up with really cool ideas midway through a current project. Although, that's probably because I have a really hard time actually coming up with said ideas. However, I am discovering that I love learning to use new tools. I relished the time I spent learning Oracle, PHP, and Blender. Now that I'm knee-deep in a project that I <b>really</b> want to finish, I realize that this is what usually makes me put down a project and pick up something new. I'm looking to learn Unity, UDK, Love2D (Lua), Python, Flash, C++, Ruby, and HTML5 (although that's mostly learning your way around some new Javascript libraries, and I can program Javascript in my sleep). And I just picked up the various versions of Box2D, so I really want to experiment with that.
+
+The issue I seem to have is that, once I learn to use a tool, I can't come up with a project that I'm excited about to keep me interested in using it. Maybe I'm doing this backwards. Maybe the way to go is to come up with a project that you're already excited about, then learn the tools necessary to make it a reality.

@@ -1,0 +1,11 @@
+---
+title: "1GAM May - Flixel - Blocks that Grow"
+category: game development
+---
+After a whirlwind of a time last month and an extended break from game development, I'm ready to dive in to this month's 1GAM. The optional theme is "Grow." It seems like the themes get broader and broader every month. The good news is that this one went from hearing the theme, to basic inspiration, to a full fledged game mechanic in just under 3 hours. The only month that had a shorter inspiration time was January, and I was at GGJ for that month.
+
+The toolset for this month is <a href="http://flixel.org/">Flixel</a>. A flash-based library similar to XNA, if the tutorials and documentation I've been looking through are any indication. It already feels better to work with "real" code. If you'll recall, I was less than satisfied working with Stencyl last month. There was a division between the idea that I wanted to build, the way I would build it normally, and the way I would have to build it to get Stencyl to do what I wanted. Having a general lack of good inspiration may have factored into that. Not to mention that I was utterly spoiled by an actual artist for March. I tried coming up with my own art in April, but it just wasn't happening.
+
+This month, my concept lends itself extremely well to very simple graphics. The working title of my 1GAM entry for May is "Blocks that Grow." It will be a Single Screen Puzzle Platformer. You have your player, you have a goal, and you have platforms that you can jump around on. The twist for this one is that there will be "platform seeds" and "platform fertilizer" in the levels. The player will be able to pick up the fertilizer and throw it in straight lines at the seeds. When the fertilizer hits the seeds, a long platform will start growing out of the seed. It will grow until it hits a wall, wait for a few seconds, then start retracting back towards the seed. Horizontally growing seeds can be used by the player as a sort of conveyer belt and vertically growing seeds can be used like elevators (at least, the ones that grow up).
+
+I may add hazards or more general "moving platforms" if I have time. But for now, it's 5 levels of single-screen puzzle goodness. The player is likely to just be a white blob that rolls around or has legs. Something extremely simple and cute.

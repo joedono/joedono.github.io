@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="post-container">
+	<h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+	<div class="post-category">
+		{{ page.category }}
+	</div>
+	<p class="post-author">
+		<span class="post-date">{{ page.date | date: "%B %-d, %Y" }}</span>
+	</p>
+	<div class="post-content">
+		{{ content }}
+	</div>
+</div>

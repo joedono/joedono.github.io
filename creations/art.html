@@ -8,10 +8,10 @@ layout: static
 
 <div class="row">
   {% for art_image in site.data.art reversed %}
-    <div class="col-sm-6 col-md-4">
+    <div class=" col-sm-12 col-md-6 col-lg-4">
       <div class="card mb-2">
         <a href="{{ art_image.link }}" target="_blank">
-          <img src="{{ art_image.link }}" alt="{{ art_image.name }}" class="img-fluid" />
+          <img data-src="{{ art_image.link }}" alt="{{ art_image.name }}" class="img-fluid lazy-image" />
         </a>
         <div class="card-body">
           <h5 class="card-title">{{ art_image.name }}</h5>

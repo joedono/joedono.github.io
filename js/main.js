@@ -24,4 +24,6 @@ var circularnav = document.getElementsByClassName("ss-icon")[0];
 
 $(function() {
 	circularnav.addEventListener("click", clickSet, false);
+
+	$('.lazy-image').Lazy();
 });

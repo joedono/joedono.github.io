@@ -1,0 +1,19 @@
+---
+title: Textiles Cabin
+category: tabletop
+---
+This is turning into a rather productive fall for me.
+
+First, I sort of participated in Inktober. I didn't really take the challenge seriously. I just used it as an excuse to finally put up my sketches.
+
+Now, I'm slated to actually take part in NaNoWriMo, through the medium of the Weave Textiles Cabin. I don't plan on hitting any sort of words-per-day goal. My goals are to finish my boss character sheets, and then go through all my player abilities and remove most of the passive abilities. I want to tailor Iron & Salt for all levels of characters. My experience playing with higher level characters shows that they become OP **very** quickly and can roll the max dice almost all the time. Talents that say "gain 1 die when rolling X" are useless at higher levels, and so situational they're useless at lower levels too. I might keep a *very* small set of passive talents around if I can think of a way they'll be useful to lower level characters.
+
+The nice thing about Iron & Salt is that the scenarios are very cleanly divided into "investigation" and "hunting". That helped me a lot when I was coming up with the plot twists. I think it'll make it very easy to tailor the Talents for helping one side or the other. I want more (all?) of them to be active abilities. Passive abilities don't help low-level players. "+1 to Stealth rolls"? Please...
+
+That's going to be quite a lot of talents to revamp. But so long as I stick to my structure of having talents directed towards combat, investigation, or both, I should be pretty good.
+
+Looking through the channel, looks like they have writing prompts too. Something like nightly challenges or write-ins to help playset authors along. I'm really looking forward to those. I haven't gotten much chance to interact with other playset authors. At least, not the serious ones. There are a couple players who say things like "it sure would be nice if there was an X playset" but writing a playset is a big undertaking. There's a lot of things to consider when writing one. A lot of elements to come up with. Man, I did the calculation a while ago. What was it?
+
+Found it. It was 528 unique elements, and that wasn't counting the work that I'm doing now. That only counted the basic description elements. It didn't count any of the mechanics, triggers, or **complete character sheets** for enemies and bosses. Those are a little more variable, but at this point I've come up with 700+ new elements for everything. Assuming that the number of talents and flaws with triggers balances out those without any mechanics at all, that's... 90 new elements for player talents and flaws. Assuming one backstory, two talents, and one flaw per enemy that's... another 150 elements for the enemies. And assuming one backstory, three talents, and one flaw for the bosses, that's another... 90 new elements for bosses. These are all estimates, but that totals to about 850 total narrative and mechanical elements I've had to come up with, and anyone who works on these sets will have to come up with. I've phoned it in a little bit. A handful of my enemies and bosses just have a generic "basic/intermediate/advanced spellcasting" talent, and I have one flaw called "mortal" and one called "spirit" that are copied around to a few enemies and bosses. So I'm phoning things in a little, but those copied abilities are also left vague for the storyteller to make their own decisions. Hmm, that makes me a little worried that I'm tailoring this playset too much to my own storytelling abilities... But I don't really have anything else to go on. Weave is still such a young system. I wish I could go out and watch some storytellers trying to play this set. Hopefully the creator will have some sharing features. Or maybe there will be some more coming out of the "playset store" or whatever they're going to call it.
+
+I really hope this system doesn't die...

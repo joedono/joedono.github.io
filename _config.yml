@@ -5,7 +5,7 @@ paginate: 5
 paginate_path: "/page/:num"
 permalink: "/post/:year/:year-:month-:day-:title:output_ext"
 exclude: [package.json, package-lock.json, README.md, RUNME.bat, RUNME.js, node_modules]
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate]
 defaults:
     -
         scope:

@@ -1,24 +1,16 @@
 ---
 title: Camera Uploader
-layout: null
+layout: static
 ---
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-	{% include head.html %}
-</head>
-<body>
-	<form action="#" method="post">
-    <label for="camera">Camera</label>
-		<input type="file" name="camera" accept="image/*" capture>
-    <hr>
-    <label for="video">Video</label>
-		<input type="file" name="video" accept="video/*" capture>
-    <hr>
-    <label for="audio">Audio</label>
-		<input type="file" name="audio" accept="audio/*" capture>
-    <hr>
-    <input type="submit" value="Submit">
-	</form>
-</body>
-</html>
+<form action="#" method="post">
+  <label for="camera">Camera</label>
+	<input type="file" name="camera" accept="image/*" capture>
+  <hr>
+  <label for="video">Video</label>
+	<input type="file" name="video" accept="video/*" capture>
+  <hr>
+  <label for="audio">Audio</label>
+	<input type="file" name="audio" accept="audio/*" capture>
+  <hr>
+  <input type="submit" value="Submit">
+</form>

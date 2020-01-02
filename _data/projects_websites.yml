@@ -17,3 +17,8 @@
   img: /img/projects/con_redesign.svg
   link: /Con-Redesign
   summary: My redesign of the convention website
+
+- name: Weave Character Builder
+  img: /img/projects/weave_char_builder.svg
+  link: https://lordjoe-weave.herokuapp.com/
+  summary: A Weave utility that my players can use to build characters in my playsets.

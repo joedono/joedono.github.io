@@ -1,5 +1,5 @@
 ---
-title: Quarantine: Week 5
+title: Quarantine - Week 5
 category: general
 ---
 It's day....(checks calendar)...35-ish of our self-imposed isolation. Our moods have sort of stabilized this week. Neither my wife nor I are growing any more depressed or stir-crazy that I can tell. We have bad days, but I don't think we're getting any worse. Meanwhile, the world continues to burn around us.

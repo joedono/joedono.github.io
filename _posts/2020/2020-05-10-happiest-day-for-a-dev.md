@@ -1,5 +1,5 @@
 ---
-title: Happiest Day for a Developer
+title: Happiest Day for a Developer Dad
 category: game development
 ---
 Today just became the happiest day of my career as a game developer and as a father.

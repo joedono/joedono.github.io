@@ -1,5 +1,6 @@
 ---
 title: Not Going Back
+category: general
 ---
 Yeah, I'm not going back to VS Code for anything except Angular development. Atom just feels better right now.
 

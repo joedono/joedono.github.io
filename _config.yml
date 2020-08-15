@@ -1,5 +1,5 @@
 name: "Little HIVE"
-description: "Musings of an independent developer"
+description: "Musings of an independent artist/developer"
 url: "http://joedono.github.io"
 paginate: 5
 paginate_path: "/page/:num"

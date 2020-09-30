@@ -2,7 +2,7 @@ name: "Little HIVE"
 description: "Musings of an independent artist/developer"
 url: "http://joedono.github.io"
 permalink: "/post/:year/:year-:month-:day-:title:output_ext"
-exclude: [package.json, package-lock.json, README.md, RUNME.bat, app.js, node_modules]
+exclude: [package.json, package-lock.json, README.md, app.js, node_modules]
 defaults:
     -
         scope:

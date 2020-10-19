@@ -1,0 +1,11 @@
+---
+title: Activities Fair
+category: japan
+---
+I really wish American fairs were like this. I took the Japanese Proficiency test, and did horribly. They give you a choice on what sections you want to do based on what you think your skills are. I obviously chose the first section because I wasn't sure how rusty I was and you have to do the first section for both beginner and intermediate levels. I barely managed to pass. I'll probably be in the lowest level course but I won't know until Friday.
+
+Afterward was the real party. I walked out of the building when I had all confidence in my Japanese shattered, only to have it put to the test in Sophia's Activities Fair. At an American activities fair, the clubs and sports set up a table, put up a sign naming the club, put up a few pictures and wait for people to approach them so they can hand out brochures. Not so in Japan. The clubs get mascots, either cute girls or handsome guys (either from within the club or without) and send them to patrol the area in front of the table and pull you in to sign up. It was like an all-out assault. I now have more brochures than I know what to do with, but I have to translate them enough to know what club they're for and where and when they meet.
+
+Clubs I found that I thought were relevant to my interests were: Go Club, Aikido Club, Kempo Club, Pool Club, Juggling Club (they didn't advertise poi or firespinning, but I think they had heard about it, they did advertise diabolo and devil sticks), 2 Ballroom Dance Clubs, and a few English speaking clubs. I looked all over for a judo club and couldn't find it, but upon returning to the dorm, I met another exchange student who was a member and told me they were too laid-back to bother with a table. I don't know what that means but I'm still going to check it out. Whenever I told anyone, even foreigners, that I have a black belt (I've only told a few), they are always extremely impressed. As a matter of fact, anytime I demonstrated even a little knowledge about a club's activities, the members are always extremely impressed. If my Japanese was even a little better, I would have a blast.
+
+The clubs are all having welcoming parties over the next couple of days and I don't have anything to do until course registration on the 9th. It should be quite fun.

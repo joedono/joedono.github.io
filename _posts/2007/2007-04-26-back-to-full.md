@@ -1,0 +1,9 @@
+---
+title: I'm Back Baby
+category: japan
+---
+Well, here I am, back to full functionality, and with a brand new (and cheap) external hard drive to boot. It cost $150...and it's 300GB!!! What a deal that was. I've backed up all my important files on it, and I now have the experience of reformatting a windows computer (which I did not previously have, despite my computer science major).
+
+Considering the circumstances, you'll forgive me if I didn't have a chance to go out and do anything interesting. Yesterday was taken up with computer fixing, and today with classes. I have a Japanese chapter test tom morning, but after that, it's GOLDEN WEEK!!! Five holidays in a period of seven days. I only have class on tues and wed. And I only have one class on each day, so expect lots of pictures, and possibly some video. Although I'm a little leery about doing that last one because that was the last thing I did before my computer died. I'll probably wait until Golden Week is over before I try encoding anything, so I don't ruin my vacation with another incident. Not that it would be that big of a deal a second time around, it would just be extremely tedious.
+
+So, plans for next week as of this moment. The International Friendship Club (Amity Club) is having a picnic this saturday. The Ballroom club is going bowling on tuesday, and Spiderman 3 comes out (which I am of course going to see). And saturday the 5th is Yuta's fire festival at Inokashira park. That leaves Sunday, Monday, Wednsday, Thursday, Friday for me to go out and do stuff. I was thinking about going to Kyoto and checking out the stuff there, but I'll have to do quite a bit of research before I go, like how to get there exactly and where to go once there. Of course, there's always homework to do also. That's probably half a day to a day gone. That's about it other than the obligatory break-from-vacation day. Expect pictures aplenty!

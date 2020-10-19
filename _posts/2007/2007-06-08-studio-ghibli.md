@@ -1,0 +1,11 @@
+---
+title: Studio Ghibli
+category: japan
+---
+Sooo, midterms are almost over. I have one more, and it's a week from Monday (which is really, REALLY late), so, as a kinda pre-celebration, we went to Studio Ghibli. Studio Ghibli is where the famous Japanese movie director Hayao Miyazaki works. His works include Spirited Away, Princess Mononoke, Kiki's Delivery Service, Castle in the Sky, My Neighbor Totoro, Howl's Moving Castle, and Porcco Rosso. So we went to the museum, and found the Cat-Bus, which is the most awesome mode of transportation ever. Unfortunately, only little kids can play inside it. Jen tried to come with us, but she slept in or something and couldn't make the reservation time. I bought her a couple souvenirs thought. I'll have to remember to take them to class on Monday so I can give them to her. Pictures are uploaded.
+
+A funny thing happened at Ballroom on Monday. I have my routine pretty much memorized, so the rest of the class is kinda at a loss as to what to do with me. They're genuinely concerned that I'm getting bored with the club. Anyway, I was hanging around one group of people on one side of the room, watching and seeing if they were learning anything I either could help with or learn myself. Then, I heard someone call "Sensei" (teacher) from across the room. I paid it no attention. Then I heard it again, so I poked the person teaching the group that I was hanging around and pointed in the direction of the girl who called. He turned around and said "She's not calling me." I turned around and saw that she was looking right at me. I couldn't believe it. I thought that I was the equivalent of a first year student to these people. She was calling me over in order to teach one of the first-year native guys how to do some move. And she called me Sensei! I'm pretty sure she was joking about it, but it still astonished me.
+
+Most of the clubs seem to be winding down. I know some people in the Walking club (yes, Japan schools actually have a club for walking) and they said their club has no more plans for the rest of the year as of yet. Many other clubs are doing the same thing. I don't think ballroom will do something like that though.
+
+Only one more midterm to go!!

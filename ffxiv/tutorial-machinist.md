@@ -119,18 +119,21 @@ Lastly, there's `Flamethrower`. This is your hardest hitting AOE ability, but it
 You saw me mention a priority list earlier, here it is. Read down the list, and use the first available ability you come across.
 
 ### Single Target
-1. `Reassemble` -> `Drill`
+1. `Reassemble` -> `Drill` (or just `Drill`)
 2. If Battery Gauge is 100, use `Automaton Queen`
-3. If `Wildfire` is available and either the Heat Gauge is 50 or above or `Barrel Stabilizer` is available, use `Barrel Stabilizer`, use `Wildfire`, use `Hypercharge`, and start in on your `Heat Blast` rotation.
-4. If the Heat Gauge is 50 or above or `Barrel Stabilizer` is available, start in on your `Heat Blast` rotation.
-5. Use your basic rotation: `Heated Split Shot` -> `Heated Slug Shot` -> `Heated Clean Shot`, interspersed with `Gauss Round` and `Ricochet`
+3. `Reassemble` -> `Air Anchor` (or just `Air Anchor`)
+4. If the Heat Gauge is lower than 50, use `Barrel Stabilizer`
+5. If `Wildfire` is available and the Heat Gauge is 50 or above, use `Wildfire`, use `Hypercharge`, and start in on your `Heat Blast` rotation.
+6. If the Heat Gauge is 50 or above, use `Hypercharge`, and start in on your `Heat Blast` rotation.
+7. Use your basic rotation: `Heated Split Shot` -> `Heated Slug Shot` -> `Heated Clean Shot`, interspersed with `Gauss Round` and `Ricochet`
 
 ### Multiple Targets
 1. `Bioblaster`
 2. `Reassemble` -> `Spread Shot`
-3. If Heat Gauge is 50 or above or `Barrel Stabilizer` is available, start in on your `Auto Crossbow` rotation
-4. `Flamethrower`
-5. `Spreadshot`, interspersed with `Gauss Round` and `Ricochet`
+3. If the Heat Gauge is lower than 50, use `Barrel Stabilizer`
+4. If Heat Gauge is 50 or above, use `Hypercharge`, and start in on your `Auto Crossbow` rotation
+5. `Flamethrower`
+6. `Spreadshot`, interspersed with `Gauss Round` and `Ricochet`
 
 ## Summary
 Your goal as a Machinist is to build your Battery Gauge and Heat Gauge as quickly as possible in order to summon the `Automaton Queen` and use `Wildfire` in combination with your `Heat Blast`, `Guass Round`, and `Ricochet` rotation to deal maximum damage.

@@ -108,4 +108,4 @@ These skills don't fit into any of the other categories and some have limited us
 ## Summary
 Your goal as a Red Mage for maximum damage is to use `Duelcast` and your proc abilities to raise your Black and White Balance Gauges to 80, then close the gap to your enemy and go through your melee combo and followups, and repeat.
 
-The official Red Mage job guide can be found here: https://na.finalfantasyxiv.com/jobguide/redmage/
+The official Red Mage job guide can be found here: [https://na.finalfantasyxiv.com/jobguide/redmage/](https://na.finalfantasyxiv.com/jobguide/redmage/)

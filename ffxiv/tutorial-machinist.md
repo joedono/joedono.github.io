@@ -138,4 +138,4 @@ You saw me mention a priority list earlier, here it is. Read down the list, and 
 ## Summary
 Your goal as a Machinist is to build your Battery Gauge and Heat Gauge as quickly as possible in order to summon the `Automaton Queen` and use `Wildfire` in combination with your `Heat Blast`, `Guass Round`, and `Ricochet` rotation to deal maximum damage.
 
-The official Machinist job guide can be found here: https://na.finalfantasyxiv.com/jobguide/machinist/
+The official Machinist job guide can be found here: [https://na.finalfantasyxiv.com/jobguide/machinist/](https://na.finalfantasyxiv.com/jobguide/machinist/)

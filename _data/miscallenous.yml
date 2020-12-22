@@ -9,6 +9,9 @@
 
 - name: Camera Upload
   link: /miscallenous/camera-upload.html
-  
+
 - name: SCEditor
   link: /miscallenous/sceditor.html
+
+- name: Cool HTML
+  link: /miscallenous/cool-html.html

@@ -24,6 +24,26 @@ layout: static
 {% endfor %}
 
 <hr>
+<h2>Pico-8</h2>
+
+{% for project in site.data.projects_pico %}
+<div class="row">
+	<div class="col-12"><hr></div>
+	<div class="col-12 col-sm-3">
+		<a href="{{ project.link }}" target="_blank">
+			<img src="{{ project.img }}" alt="{{ project.name }}" class="img-fluid img-thumbnail" />
+		</a>
+	</div>
+	<div class="col-12 col-sm-9">
+		<a href="{{ project.link }}" target="_blank">
+			<h3>{{ project.name }}</h3>
+		</a>
+		<p>{{ project.summary }}</p>
+	</div>
+</div>
+{% endfor %}
+
+<hr>
 <h2>1GAM 2013</h2>
 
 <p>

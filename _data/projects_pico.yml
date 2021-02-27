@@ -1,0 +1,4 @@
+- name: Abby's Food School
+  img: /img/projects/abbyfoodschool.p8.png
+  link: /game/abbyfoodschool/index.html
+  summary: My first game made with Pico-8.<br><br>A recipe will appear on the left side of the screen. You have to select the right ingredients using the arrow keys and Z or X to retrieve the correct ingredients in the shortest time possible.

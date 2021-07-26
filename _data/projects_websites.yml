@@ -15,15 +15,10 @@
 
 - name: Con Redesign
   img: /img/projects/con_redesign.svg
-  link: /AB-Site-Redesign
+  link: https://abwebmaster.github.io/AB-Site-Redesign/
   summary: My redesign of the convention website
 
 - name: Weave Character Builder
   img: /img/projects/weave_char_builder.svg
   link: https://weave-playtest.herokuapp.com/
   summary: A Weave utility that my players can use to build characters in my playsets.
-
-- name: Covid Tracker
-  img: /img/projects/covid-tracker.svg
-  link: https://joe-covid-tracker.herokuapp.com/
-  summary: An aggregator of Covid data for the US and New England. Made to experiment with Angular 9 and Ngx-Charts.

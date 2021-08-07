@@ -1,4 +1,5 @@
-cmd: npm
+cmd: jekyll
 args:
-  - run
   - build
+  - -s ./
+  - -d ./_site

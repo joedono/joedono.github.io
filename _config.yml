@@ -6,6 +6,8 @@ exclude: [package.json, package-lock.json, README.md, app.js, node_modules]
 collections:
   miscallenous:
     output: true
+  ffxiv:
+    output: true
 defaults:
   -
     scope:

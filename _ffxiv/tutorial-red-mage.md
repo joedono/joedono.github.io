@@ -1,5 +1,5 @@
 ---
-title: Red Mage Tutorial
+title: Class Tutorial - Red Mage
 layout: static
 ---
 # Class Tutorial - Red Mage

@@ -2,16 +2,15 @@
 title: Miscellaneous
 layout: static
 ---
-
 <h2>Miscellaneous</h2>
 
 <p>A collection of cool things I've found or built.</p>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-12">
     <div class="list-group">
-      {% for miscallenous_page in site.miscallenous %}
-      <a class="list-group-item" href="{{ miscallenous_page.url }}">{{ miscallenous_page.title }}</a>
+      {% for site_page in site.miscallenous %}
+      <a class="list-group-item" href="{{ site_page.url }}">{{ site_page.title }}</a>
       {% endfor %}
     </div>
   </div>

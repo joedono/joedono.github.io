@@ -9,8 +9,9 @@ layout: static
 <div class="row">
   <div class="col-12">
     <div class="list-group">
-      <a class="list-group-item" href="/ffxiv/tutorial-red-mage.html">Class Tutorial - Red Mage</a>
-      <a class="list-group-item" href="/ffxiv/tutorial-machinist.html">Class Tutorial - Machinist</a>
+      {% for site_page in site.ffxiv %}
+      <a class="list-group-item" href="{{ site_page.url }}">{{ site_page.title }}</a>
+      {% endfor %}
     </div>
   </div>
 </div>

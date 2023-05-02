@@ -1,5 +1,5 @@
 ---
-title: Machinist Tutorial
+title: Class Tutorial - Machinist
 layout: static
 ---
 # Class Tutorial - Machinist

@@ -21,172 +21,172 @@ var firstNode;
 var allShakeableNodes;
 
 function addCSS() {
-	var css = document.createElement("link");
-	css.setAttribute("type", "text/css");
-	css.setAttribute("rel", "stylesheet");
-	css.setAttribute("href", PATH_TO_CSS);
-	css.setAttribute("class", FILE_ADDED_CLASS);
+  var css = document.createElement("link");
+  css.setAttribute("type", "text/css");
+  css.setAttribute("rel", "stylesheet");
+  css.setAttribute("href", PATH_TO_CSS);
+  css.setAttribute("class", FILE_ADDED_CLASS);
 
-	document.body.appendChild(css);
+  document.body.appendChild(css);
 }
 
 function removeAddedFiles() {
-	var addedFiles = document.getElementsByClassName(FILE_ADDED_CLASS);
-	for (var i=0; i<addedFiles.length; i++) {
-		document.body.removeChild(addedFiles[i]);
-	}
+  var addedFiles = document.getElementsByClassName(FILE_ADDED_CLASS);
+  for (var i=0; i<addedFiles.length; i++) {
+    document.body.removeChild(addedFiles[i]);
+  }
 }
 
 function flashScreen() {
-	var flash = document.createElement("div");
-	flash.setAttribute("class", CSS_STROBE_CLASS);
-	document.body.appendChild(flash);
+  var flash = document.createElement("div");
+  flash.setAttribute("class", CSS_STROBE_CLASS);
+  document.body.appendChild(flash);
 
-	setTimeout(function() {
-		document.body.removeChild(flash);
-	}, 100);
+  setTimeout(function() {
+    document.body.removeChild(flash);
+  }, 100);
 }
 
 function size(node) {
-	return {
-		height: node.offsetHeight,
-		width: node.offsetWidth
-	};
+  return {
+    height: node.offsetHeight,
+    width: node.offsetWidth
+  };
 }
 
 function withinBounds(node) {
-	var nodeFrame = size(node);
-	return (nodeFrame.height > MIN_HEIGHT &&
-			nodeFrame.height < MAX_HEIGHT &&
-			nodeFrame.width > MIN_WIDTH &&
-			nodeFrame.width < MAX_WIDTH);
+  var nodeFrame = size(node);
+  return (nodeFrame.height > MIN_HEIGHT &&
+      nodeFrame.height < MAX_HEIGHT &&
+      nodeFrame.width > MIN_WIDTH &&
+      nodeFrame.width < MAX_WIDTH);
 }
 
 function posY(elm) {
-	var test = elm;
-	var top = 0;
-	while (!!test) {
-		top += test.offsetTop;
-		test = test.offsetParent;
-	}
-	return top;
+  var test = elm;
+  var top = 0;
+  while (!!test) {
+    top += test.offsetTop;
+    test = test.offsetParent;
+  }
+  return top;
 }
 
 function viewPortHeight() {
-	var de = document.documentElement;
-	if (!!window.innerWidth) {
-		return window.innerHeight;
-	} else if (de && !isNaN(de.clientHeight)) {
-		return de.clientHeight;
-	}
-	return 0;
+  var de = document.documentElement;
+  if (!!window.innerWidth) {
+    return window.innerHeight;
+  } else if (de && !isNaN(de.clientHeight)) {
+    return de.clientHeight;
+  }
+  return 0;
 }
 
 function scrollY() {
-	if (window.pageYOffset) {
-		return window.pageYOffset;
-	}
-	return Math.max(document.documentElement.scrollTop, document.body.scrollTop);
+  if (window.pageYOffset) {
+    return window.pageYOffset;
+  }
+  return Math.max(document.documentElement.scrollTop, document.body.scrollTop);
 }
 
 function isVisible(node) {
-	var y = posY(node);
-	var vpH = viewPortHeight();
-	var st = scrollY();
+  var y = posY(node);
+  var vpH = viewPortHeight();
+  var st = scrollY();
 
-	return (y >= st && y <= (vpH + st));
+  return (y >= st && y <= (vpH + st));
 }
 
 function playSong() {
-	var audioTag = document.createElement("audio");
-	audioTag.setAttribute("class", FILE_ADDED_CLASS);
-	audioTag.src = PATH_TO_SONG;
-	audioTag.loop = false;
+  var audioTag = document.createElement("audio");
+  audioTag.setAttribute("class", FILE_ADDED_CLASS);
+  audioTag.src = PATH_TO_SONG;
+  audioTag.loop = false;
 
-	var harlem = false,
-		shake = false,
-		slowmo = false;
+  var harlem = false,
+    shake = false,
+    slowmo = false;
 
-	audioTag.addEventListener("timeupdate", function() {
-		var time = audioTag.currentTime,
-			nodes = allShakeableNodes,
-			len = nodes.length, i;
+  audioTag.addEventListener("timeupdate", function() {
+    var time = audioTag.currentTime,
+      nodes = allShakeableNodes,
+      len = nodes.length, i;
 
-		// song started, start shaking first item
-		if(time >= 0.5 && !harlem) {
-			harlem = true;
-			shakeFirst(firstNode);
-		}
+    // song started, start shaking first item
+    if(time >= 0.5 && !harlem) {
+      harlem = true;
+      shakeFirst(firstNode);
+    }
 
-		// everyone else joins the party
-		if(time >= 15.5 && !shake) {
-			shake = true;
-			stopShakeAll();
-			flashScreen();
-			for (i = 0; i < len; i++) {
-				shakeOther(nodes[i]);
-			}
-		}
+    // everyone else joins the party
+    if(time >= 15.5 && !shake) {
+      shake = true;
+      stopShakeAll();
+      flashScreen();
+      for (i = 0; i < len; i++) {
+        shakeOther(nodes[i]);
+      }
+    }
 
-		// slow motion at the end
-		if(audioTag.currentTime >= 28.4 && !slowmo) {
-			slowmo = true;
-			shakeSlowAll();
-		}
-	}, true);
+    // slow motion at the end
+    if(audioTag.currentTime >= 28.4 && !slowmo) {
+      slowmo = true;
+      shakeSlowAll();
+    }
+  }, true);
 
-	audioTag.addEventListener("ended", function() {
-		stopShakeAll();
-		removeAddedFiles();
-	}, true);
+  audioTag.addEventListener("ended", function() {
+    stopShakeAll();
+    removeAddedFiles();
+  }, true);
 
-	audioTag.innerHTML = "<p>If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.</p>";
+  audioTag.innerHTML = "<p>If you are reading this, it is because your browser does not support the audio element. We recommend that you get a new browser.</p>";
 
-	document.body.appendChild(audioTag);
-	audioTag.play();
+  document.body.appendChild(audioTag);
+  audioTag.play();
 }
 
 function shakeFirst(node) {
-	node.className += " "+CSS_BASE_CLASS+" "+CSS_FIRST_CLASS;
+  node.className += " "+CSS_BASE_CLASS+" "+CSS_FIRST_CLASS;
 }
 
 function shakeOther(node) {
-	node.className += " "+CSS_BASE_CLASS+" "+CSS_OTHER_CLASSES[Math.floor(Math.random()*CSS_OTHER_CLASSES.length)];
+  node.className += " "+CSS_BASE_CLASS+" "+CSS_OTHER_CLASSES[Math.floor(Math.random()*CSS_OTHER_CLASSES.length)];
 }
 
 function shakeSlowAll() {
-	var shakingNodes = document.getElementsByClassName(CSS_BASE_CLASS);
-	for (var i=0; i<shakingNodes.length; ) {
-		shakingNodes[i].className = shakingNodes[i].className.replace(CSS_BASE_CLASS, CSS_SLOW_CLASS);
-	}
-	CSS_BASE_CLASS = CSS_SLOW_CLASS;
+  var shakingNodes = document.getElementsByClassName(CSS_BASE_CLASS);
+  for (var i=0; i<shakingNodes.length; ) {
+    shakingNodes[i].className = shakingNodes[i].className.replace(CSS_BASE_CLASS, CSS_SLOW_CLASS);
+  }
+  CSS_BASE_CLASS = CSS_SLOW_CLASS;
 }
 
 function stopShakeAll() {
-	var shakingNodes = document.getElementsByClassName(CSS_BASE_CLASS);
-	var regex = new RegExp('\\b'+CSS_BASE_CLASS+'\\b');
-	for (var i=0; i<shakingNodes.length; ) {
-		shakingNodes[i].className = shakingNodes[i].className.replace(regex, "");
-	}
+  var shakingNodes = document.getElementsByClassName(CSS_BASE_CLASS);
+  var regex = new RegExp('\\b'+CSS_BASE_CLASS+'\\b');
+  for (var i=0; i<shakingNodes.length; ) {
+    shakingNodes[i].className = shakingNodes[i].className.replace(regex, "");
+  }
 }
 
 function startShake() {
-	var thisNode;
-	allNodes = document.getElementsByTagName("*");
-	len = allNodes.length;
-	firstNode = document.getElementById("first-shake");
-	allShakeableNodes = [];
+  var thisNode;
+  allNodes = document.getElementsByTagName("*");
+  len = allNodes.length;
+  firstNode = document.getElementById("first-shake");
+  allShakeableNodes = [];
 
-	// insert CSS
-	addCSS();
+  // insert CSS
+  addCSS();
 
-	// play song
-	playSong();
+  // play song
+  playSong();
 
-	for (i = 0; i < len; i++) {
-		thisNode = allNodes[i];
-		if (withinBounds(thisNode)) {
-			allShakeableNodes.push(thisNode);
-		}
-	}
+  for (i = 0; i < len; i++) {
+    thisNode = allNodes[i];
+    if (withinBounds(thisNode)) {
+      allShakeableNodes.push(thisNode);
+    }
+  }
 }

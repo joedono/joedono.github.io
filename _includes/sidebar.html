@@ -1,20 +1,20 @@
 <div class="sidebar-content">
-	<h3 class="sidebar-header">Categories</h3>
-	<div id="sidebar-list-categories" class="list-group">{% assign sortedcats = site.categories | sort %}{% for category in sortedcats %}
-		<a class="list-group-item" href="/category/{{ category | first | slugify }}.html">
-			{{ category | first }}
-			<span class="badge">{{ category | last | size }}</span>
-		</a>{% endfor %}
-	</div>
+  <h3 class="sidebar-header">Categories</h3>
+  <div id="sidebar-list-categories" class="list-group">{% assign sortedcats = site.categories | sort %}{% for category in sortedcats %}
+    <a class="list-group-item" href="/category/{{ category | first | slugify }}.html">
+      {{ category | first }}
+      <span class="badge">{{ category | last | size }}</span>
+    </a>{% endfor %}
+  </div>
 </div>
 <div class="sidebar-content">
-	<h3 class="sidebar-header">Archive</h3>
-	<div class="list-group" id="accordion">{% for post in site.posts %}{% assign currentdate = post.date | date: "%Y" %}{% if currentdate != date %}{% unless forloop.first %}</div></div>{% endunless %}
-		<button class="sidebar-archive-header list-group-item" type="button" data-bs-toggle="collapse" data-bs-target='#sidebar-archive-{{ post.date | date: "%Y" }}' aria-expanded="false" aria-controls='sidebar-archive-{{ post.date | date: "%Y" }}'>
-			{{ post.date | date: "%Y" }}
-		</button>
-		<div id='sidebar-archive-{{ post.date | date: "%Y" }}' class="sidebar-archive-group collapse" role="tabpanel">
-			<div class="list-group">{% assign date = currentdate %}{% endif %}
-				<a href="{{ post.url }}" class="list-group-item"><span class="sidebar-archive-label">{{ post.date | date: "%b %d" }} - </span>{{ post.title }}</a>{% if forloop.last %}</div></div>{% endif %}{% endfor %}
-	</div>
+  <h3 class="sidebar-header">Archive</h3>
+  <div class="list-group" id="accordion">{% for post in site.posts %}{% assign currentdate = post.date | date: "%Y" %}{% if currentdate != date %}{% unless forloop.first %}</div></div>{% endunless %}
+    <button class="sidebar-archive-header list-group-item" type="button" data-bs-toggle="collapse" data-bs-target='#sidebar-archive-{{ post.date | date: "%Y" }}' aria-expanded="false" aria-controls='sidebar-archive-{{ post.date | date: "%Y" }}'>
+      {{ post.date | date: "%Y" }}
+    </button>
+    <div id='sidebar-archive-{{ post.date | date: "%Y" }}' class="sidebar-archive-group collapse" role="tabpanel">
+      <div class="list-group">{% assign date = currentdate %}{% endif %}
+        <a href="{{ post.url }}" class="list-group-item"><span class="sidebar-archive-label">{{ post.date | date: "%b %d" }} - </span>{{ post.title }}</a>{% if forloop.last %}</div></div>{% endif %}{% endfor %}
+  </div>
 </div>

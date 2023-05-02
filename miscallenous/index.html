@@ -8,11 +8,11 @@ layout: static
 <p>A collection of cool things I've found or built.</p>
 
 <div class="row">
-	<div class="col-md-6">
-		<div class="list-group">
-			{% for thing in site.data.miscallenous %}
-			<a class="list-group-item" href="{{ thing.link }}">{{ thing.name }}</a>
-			{% endfor %}
-		</div>
-	</div>
+  <div class="col-md-6">
+    <div class="list-group">
+      {% for thing in site.data.miscallenous %}
+      <a class="list-group-item" href="{{ thing.link }}">{{ thing.name }}</a>
+      {% endfor %}
+    </div>
+  </div>
 </div>

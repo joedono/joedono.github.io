@@ -1,0 +1,24 @@
+- name: FireJive
+  img: /img/projects/firejive.svg
+  link: /Firejive
+  summary: Way back when, me and some friends started a small business of fire performers. Our troupe is mostly broken up now, but I still have the website I designed for us. This could be considered the very first website I designed.
+
+- name: Pork Bowl Con
+  img: /img/projects/pork_bowl_con.svg
+  link: /Pork-Bowl-Con
+  summary: Pork Bowl Con is a fake convention not unline SDCC or Otakon, just with a focus on pork bowls and other hearty food stuffs. I even used a color-scheme-picker to try and give it a unified color scheme that evoked the look of a pork bowl meal.
+
+- name: Dandy Game Shop
+  img: /img/projects/dandy_game_shop.svg
+  link: /Dandy-Game-Shop
+  summary: Dandy Game Shop is an online used games marketplace.
+
+- name: Con Redesign
+  img: /img/projects/con_redesign.svg
+  link: https://abwebmaster.github.io/AB-Site-Redesign/
+  summary: My redesign of the convention website
+
+- name: Weave Character Builder
+  img: /img/projects/weave_char_builder.svg
+  link: https://weave-playtest.herokuapp.com/
+  summary: A Weave utility that my players can use to build characters in my playsets.

@@ -8,7 +8,6 @@ collections:
     output: true
   ffxiv:
     output: true
-  websites:
 defaults:
   -
     scope:

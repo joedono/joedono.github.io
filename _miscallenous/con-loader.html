@@ -60,16 +60,18 @@ layout: raw
 </head>
 <body>
   <div id="con-image-container" class="container">
-    <form action="#" method="get" onsubmit="startLoading(); return false;" class="form-inline">
-      <div class="row">
-        <div class="col">
-          <input type="text" class="form-control">
-          <button type="submit" id="submit-button" class="btn btn-secondary">
-            Start Loading
-            <img class="loading-image" src="/img/projects/con_redesign.svg">
-          </button>
-          <button type="button" class="btn btn-primary" onclick="stopLoading()">Stop Loading</button>
-        </div>
+    <form action="#" method="get" onsubmit="startLoading(); return false;" class="row">
+      <div class="col-4">
+        <input type="text" class="form-control">
+      </div>
+      <div class="col-4">
+        <button type="submit" id="submit-button" class="btn btn-secondary">
+          Start Loading
+          <img class="loading-image" src="/img/projects/con_redesign.svg">
+        </button>
+      </div>
+      <div class="col-4">
+        <button type="button" class="btn btn-primary" onclick="stopLoading()">Stop Loading</button>
       </div>
     </form>
   </div>

@@ -3,21 +3,24 @@ description: "Musings of an independent artist/developer"
 url: "http://joedono.github.io"
 permalink: "/post/:year/:year-:month-:day-:title:output_ext"
 exclude: [package.json, package-lock.json, README.md, app.js, node_modules]
+collections:
+  miscallenous:
+    output: true
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: "default"
-    -
-        scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: "post"
-    -
-        scope:
-            path: "category"
-            type: "pages"
-        values:
-            layout: "category"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "category"
+      type: "pages"
+    values:
+      layout: "category"

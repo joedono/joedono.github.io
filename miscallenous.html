@@ -10,8 +10,8 @@ layout: static
 <div class="row">
   <div class="col-md-6">
     <div class="list-group">
-      {% for thing in site.data.miscallenous %}
-      <a class="list-group-item" href="{{ thing.link }}">{{ thing.name }}</a>
+      {% for miscallenous_page in site.miscallenous %}
+      <a class="list-group-item" href="{{ miscallenous_page.url }}">{{ miscallenous_page.title }}</a>
       {% endfor %}
     </div>
   </div>

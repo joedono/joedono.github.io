@@ -1,5 +1,5 @@
 ---
-title: Halfrek - Weave
+title: Halfrek Weave
 layout: static
 ---
 # Halfrek
@@ -7,7 +7,7 @@ layout: static
 My character in the Weave campaign "With a Fire in their Belly."
 
 <div class="col-sm-5" style="margin-right: 10px;">
-<img src="/img/Halfrek.png" class="img-fluid float-left" style="margin-right: 10px; margin-left: -15px;">
+<img src="/img/Halfrek.png" class="img-fluid float-start" style="margin-right: 10px">
 </div>
 
 Halfrek was born in a colony on Io, a highly volcanic moon of Jupiter. He grew up working as a fuel engineer, planning, diverting, and maintaining Io’s natural magma flows to power the planet’s thermal power stations. His grandfather would tell him stories about his ancestor who was there during humanity’s first and only interaction with an alien life form.

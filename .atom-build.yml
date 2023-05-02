@@ -1,5 +1,0 @@
-cmd: jekyll
-args:
-  - build
-  - -s ./
-  - -d ./_site

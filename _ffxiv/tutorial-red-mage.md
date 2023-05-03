@@ -35,8 +35,6 @@ This is where the bulk of your focus will be when playing Red Mage. Your rotatio
 4. Maybe get one of the `... Ready` buffs
 5. Repeat
 
-Which actual spells you cast will depend on your procs and where you are on the Balance Gauge.
-
 ### Short Cast Spells
 1. `Jolt`/`Jolt II`
 2. `Verthunder`
@@ -57,7 +55,7 @@ Fortunately, the `Verthunder` and `Veraero` procs also light up the skill icons 
 Once you have `DuelCast`, cast `Verfire` or `Verstone`, depending on which side of your Balance Guage is lower.
 
 ## Balance Gauge
-Along with the `Duelcast`, managing the balance gauge will be how you decide what spells to cast. Your goals are to keep the white and black energy gauges close together, and to get them both up to 50 (60 if you're doing an AOE rotation). If the gauges get too far apart, then the jewel at the top of the gauge will turn the color of the higher gauge, and it will be harder to raise the opposite gauge.
+Along with the `Duelcast`, managing the balance gauge will be how you decide what spells to cast. Your goals are to keep the white and black energy gauges close together, and to get them both up to 50 (60 if you're doing an AOE rotation). If the gauges get too far apart, then the jewel at the top of the gauge will turn the color of the higher gauge, and it will be harder to raise the lower gauge.
 
 * `Jolt`/`Jolt II`, `Scorch`, `Resolution`, and `Scatter`/`Impact` raise both gauges a small amount
 * `Veraero`, `Verstone`, and `Verholy` raise the White Mana gauge
@@ -91,7 +89,7 @@ All of these have AOE properties, so they are also part of your AOE rotation. Al
 
 `Verflare` and `Verholy` will automatically grant you the appropriate `... Ready` proc, provided you use them when the appropriate bar is lower than the other. For instance, if your White Mana bar is lower than your Black, executing `Verholy` will do damage, raise your White Mana bar, AND grant you `Verstone Ready`, but executing `Verflare` will only do damage and raise your Black Mana bar. The reverse is true if your Black Mana bar is lower.
 
-`Scorch` and `Resolution` unlock at later levels and are simple high-damaging AOE spells with no special attributes.
+`Scorch` and `Resolution` unlock at later levels and are simple high-damaging AOE spells with no special attributes that raise both side of your Balance Gauge a small amount.
 
 ## Other Skills
 Everything above covers your main rotation. Of course, you have a handful of other skills that range in usefulness.
@@ -99,7 +97,7 @@ Everything above covers your main rotation. Of course, you have a handful of oth
 ### Off-Cooldown Skills
 `Corps-a-corps` is a low-damage ability that includes dashing to your target. This is useful both for dodging attacks and for closing the gap in preparation for your melee combo. It's free damage, so keep it on cooldown as much as you can.
 
-`Displacement` is a low-damage ability that includes leaping away from your target. This is useful mostly for dodging attacks, but it can get you out of melee range after you're done with your combo. Be careful not to leap off of the arena!
+`Displacement` is a low-damage ability that includes leaping away from your target. This is useful mostly for dodging attacks, but it can get you out of melee range after you're done with your melee combo. Be careful not to leap off of the arena!
 
 `Engagement` is an off-cooldown melee attack with no special properties. It shares its cooldown timer and potency with `Displacement`. You can treat this as free damage and use it when using `Displacement` would send you to your death. Keep it or `Displacement` on cooldown as much as you can.
 
@@ -132,9 +130,9 @@ Your AOE spells are
 ### Misc Skills
 These skills don't fit into any of the other categories and some have limited usefulness. Some are included for completeness, but others can save a raid.
 
-`Verraise` is probably what the Red Mage is best known for. The advantage Red Mage has over Summoner and all the healing classes when it comes to raising dead party members is that `Verraise` can be affected by `Duelcast`. That means, as long as the Red Mage has a way to get the `Duelcast` buff (either through offensive spells or `Vercure`), `Verraise` can always be cast with no cast time. It's possible to raise an entire alliance with this ability. Hooray for perpetual Swiftcast!
+`Verraise` is your standard Raise/Resurrection spell and probably what the Red Mage is best known for. The advantage Red Mage has over Summoner and all the healing classes when it comes to raising dead party members is that `Verraise` can be affected by `Duelcast`. That means, as long as the Red Mage has a way to get the `Duelcast` buff (either through offensive spells or `Vercure`), `Verraise` can always be cast with no cast time. It's possible to raise an entire alliance with this ability, provided you have the MP for it. Hooray for infinite Swiftcast!
 
-`Vercure` has more limited usefulness. It's a short cast spell that both grants and is affected by `Duelcast`, which means you can cast it twice very quickly. Unfortunately, it takes two casting to equal the average healing amount put out by a White Mage's basic `Cure` spell. So, it's useful in a pinch, but your time is better spent doing damage.
+`Vercure` has more limited usefulness. It's a short cast spell that both grants and is affected by `Duelcast`, which means you can cast it twice very quickly. Unfortunately, it takes two casting to equal the average healing amount put out by a White Mage's basic `Cure` spell. Casting it on yourself is a good way to get `Duelcast` in preparation to cast `Verraise` when there are no enemies around or the boss has left the arena. So, it's useful in a pinch, but your time is better spent doing damage.
 
 `Enhanced Reprise` is like the Black Mage's `Scathe`. It's a ranged, weak attack with no cast timer. It costs 5 Black and White Mana to cast. Use it when you have to run and still want to keep up damage, but you're not sitting on a `Duelcast` proc or your melee combo followups.
 

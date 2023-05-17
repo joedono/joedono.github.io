@@ -1,6 +1,6 @@
 ---
 title: GitHub Actions and New Site Migration
-category: web-development
+category: web development
 ---
 I've been getting more into CI/CD lately with my various GitHub projects.
 

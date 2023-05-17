@@ -1,0 +1,15 @@
+---
+title: GitHub Actions and New Site Migration
+category: web-development
+---
+I've been getting more into CI/CD lately with my various GitHub projects.
+
+I did some experimenting with my volunteer webmaster website, since deploying that one is a MAJOR pain. We used to have to copy files manually one-by-one over FTP. It meant that, once we got a list of files we were working wth into the FTP Client, we could deploy them over and over again in a single development session, but it was a major pain more often than not. We had a bunch of obstacles that prevented us from using GitHub actions directly to deploy this, but the production site has cPanel installed on it. Through some trial-and-error, I managed to get the Git Version Control stuff working and write a cPanel.yml script that would automate deployment down to two buttons. I got that set up just in time for the event itself and I was almost praying for the site to need more updates so I could use the new deployment method. There wansn't much, but there were a bit. I'm really happy with this now.
+
+I also was volunteered to be the webmaster for my local Lions Club. It only took me a few hours to completely overhaul their site with Jekyll and Bootstrap to make it work on phones, help dress it up a bit, and post to it more easily. The former webmaster gave me some FTP credentials, and I was able to pretty quickly configure actual GitHub actions to build the site with Jekyll and deploy it over FTP to the server. Now it's SUPER easy to update the site, even from my phone.
+
+But perhaps the biggest and coolest thing I've done is migrate my Weave Character Builder website to GitHub Pages. I originally wrote that website using Ruby on Rails as a learning project. The site itself is a character builder for the Weave TTRPG where I put the content for my playset Iron & Salt. It was hosted on Heroku and saw some good usage when I was playtesting Iron & Salt. Heroku made the decision to remove it's free tier sometime last year, so I took my project down. I had been looking forward to having a free space to host my more complicated web sites if/when I ever make one. Instead, I decided to migrate the Weave Character Builder to an entirely front-end language and experiment with hosting it on GitHub Pages. I originally wanted to use that to learn React, but it turned out that nothing in my professional environment was using React. Everything that used anything was using Angular. So it was back to that.
+
+It took a while, but the rebuild is finally finished and fairly robust. I already have a system and scripts in place for writing a playset and exporting resource files that the site can consume and let people build characters in it. Not that anyone is going to use that for anything. I'll eventually use it for my Sia Malak playset. For now, I'm just happy that it's working. Not only is it working, but I've got it set up to automatically run Angular Build and then deploy to my gh-pages branch, making the distribution of the site available publically. I'm so happy!
+
+You can check out the character builder through my Websites on this site, or just go to it [here](/Weave-Site/)

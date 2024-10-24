@@ -1,6 +1,6 @@
 ---
 title: Baldur's Gate 3
-category: game-experience
+category: game experience
 ---
 10 months and 700 hours....
 
